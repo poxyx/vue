@@ -1,0 +1,3707 @@
+{
+  "item": [
+    {
+      "basic": {
+        "name": "",
+        "rune": {
+          "isrune": false,
+          "tier": 1,
+          "type": "red"
+        },
+        "gold": {
+          "base": 0,
+          "total": 0,
+          "sell": 0,
+          "purchasable": false
+        },
+        "group": "",
+        "description": "",
+        "colloq": ";",
+        "plaintext": "",
+        "consumed": false,
+        "stacks": 1,
+        "depth": 1,
+        "consumeOnFull": false,
+        "from": [],
+        "into": [],
+        "specialRecipe": 0,
+        "inStore": true,
+        "hideFromAll": false,
+        "requiredChampion": "",
+        "requiredAlly": "",
+        "stats": {
+          "FlatHPPoolMod": 0,
+          "rFlatHPModPerLevel": 0,
+          "FlatMPPoolMod": 0,
+          "rFlatMPModPerLevel": 0,
+          "PercentHPPoolMod": 0,
+          "PercentMPPoolMod": 0,
+          "FlatHPRegenMod": 0,
+          "rFlatHPRegenModPerLevel": 0,
+          "PercentHPRegenMod": 0,
+          "FlatMPRegenMod": 0,
+          "rFlatMPRegenModPerLevel": 0,
+          "PercentMPRegenMod": 0,
+          "FlatArmorMod": 0,
+          "rFlatArmorModPerLevel": 0,
+          "PercentArmorMod": 0,
+          "rFlatArmorPenetrationMod": 0,
+          "rFlatArmorPenetrationModPerLevel": 0,
+          "FlatMagicArmorMod": 0,
+          "rFlatMagicArmorModPerLevel": 0,
+          "PercentMagicArmorMod": 0,
+          "rFlatMagicArmorPenetrationMod": 0,
+          "rFlatMagicArmorPenetrationModPerLevel": 0,
+          "rPercentArmorPenetrationMod": 0,
+          "rPercentArmorPenetrationModPerLevel": 0,
+          "FlatPhysicalDamageMod": 0,
+          "rFlatPhysicalDamageModPerLevel": 0,
+          "PercentPhysicalDamageMod": 0,
+          "FlatMagicDamageMod": 0,
+          "rFlatMagicDamageModPerLevel": 0,
+          "rPercentMagicDamageModPerLevel": 0,
+          "PercentMagicDamageMod": 0,
+          "FlatMovementSpeedMod": 0,
+          "rFlatMovementSpeedModPerLevel": 0,
+          "PercentMovementSpeedMod": 0,
+          "rPercentMovementSpeedModPerLevel": 0,
+          "FlatAttackSpeedMod": 0,
+          "PercentAttackSpeedMod": 0,
+          "rPercentAttackSpeedModPerLevel": 0,
+          "rFlatDodgeMod": 0,
+          "rFlatDodgeModPerLevel": 0,
+          "PercentDodgeMod": 0,
+          "FlatCritChanceMod": 0,
+          "rFlatCritChanceModPerLevel": 0,
+          "rPercentCritChanceModPerLevel": 0,
+          "PercentCritChanceMod": 0,
+          "FlatCritDamageMod": 0,
+          "rFlatCritDamageModPerLevel": 0,
+          "PercentCritDamageMod": 0,
+          "FlatBlockMod": 0,
+          "PercentBlockMod": 0,
+          "FlatSpellBlockMod": 0,
+          "rFlatSpellBlockModPerLevel": 0,
+          "PercentSpellBlockMod": 0,
+          "FlatEXPBonus": 0,
+          "PercentEXPBonus": 0,
+          "rPercentCooldownMod": 0,
+          "rPercentCooldownModPerLevel": 0,
+          "rPercentBattleSpellCooldownModPerLevel": 0,
+          "rFlatBattleSpellCooldownModPerLevel": 0,
+          "rFlatTimeDeadMod": 0,
+          "rFlatTimeDeadModPerLevel": 0,
+          "rPercentTimeDeadMod": 0,
+          "rPercentTimeDeadModPerLevel": 0,
+          "rFlatGoldPer10Mod": 0,
+          "rFlatMagicPenetrationMod": 0,
+          "rFlatMagicPenetrationModPerLevel": 0,
+          "rPercentMagicPenetrationMod": 0,
+          "rPercentMagicPenetrationModPerLevel": 0,
+          "FlatEnergyRegenMod": 0,
+          "rFlatEnergyRegenModPerLevel": 0,
+          "FlatEnergyPoolMod": 0,
+          "rFlatEnergyModPerLevel": 0,
+          "PercentLifeStealMod": 0,
+          "rPercentLifeStealModPerLevel": 0,
+          "rFlatLifeStealModPerLevel": 0,
+          "rFlatMagicLifeStealPerLevel": 0,
+          "PercentMagicLifeStealMod": 0,
+          "rPercentMagicLifeStealMod": 0,
+          "PercentSpellVampMod": 0,
+          "rPercentSpellVampModPerLevel": 0,
+          "FlatExtraMonsterDamageMod": 0,
+          "rFlatExtraMonsterDamageModPerLevel": 0,
+          "PercentExtraMonsterDamageMod": 0,
+          "rPercentExtraMonsterDamageModPerLevel": 0,
+          "rFlatExtraMonsterDamagePenetrationMod": 0,
+          "rFlatExtraMonsterDamagePenetrationModPerLevel": 0,
+          "rFlatBlockMonsterDamageModPerLevel":0,
+          "rPercentBlockMonsterDamageModPerLevel":0,
+          "rPercentHealingModPerLevel":0
+        },
+        "effects":{
+            "Effect1Amount":0,
+            "Effect2Amount":0,
+            "Effect3Amount":0,
+            "Effect4Amount":0,
+            "Effect5Amount":0,
+            "Effect6Amount":0,
+            "Effect7Amount":0,
+            "Effect8Amount":0,
+            "Effect9Amount":0,
+            "Effect10Amount":0
+        },
+        "tags": [],
+        "maps": {
+          "1": true,
+          "8": true,
+          "10": true,
+          "12": true
+        }
+      },
+      "data": {
+        "equip": [
+          {
+            "id": 1001,
+            "name": "Dagger",
+            "type": 0,
+            "icon": "miya/equip/cff3fa573e79a4eedde8a8052303ba11.png",
+            "attr_tips": ["+15 Extra Physical ATK"],
+            "ex_attr_tips": null,
+            "skill_tips": null,
+            "custom": {
+              "group": "Attack",
+              "stats": {
+                "FlatPhysicalDamageMod": 15
+              },
+              "effect": {},
+              "from": [],
+              "into": [
+                3012,
+                3007,
+                3010,
+                2009,
+                3403,
+                3009,
+                1006,
+                2001,
+                2002,
+                2004,
+                2005,
+                2007
+              ],
+              "tags": ["physical attack"],
+              "maps": null,
+              "tier": 1,
+              "plaintext": null,
+              "consumed": false,
+              "inStore": true,
+              "gold": {
+                "base": 250,
+                "sell": 150
+              }
+            }
+          },
+          {
+            "id": 1002,
+            "name": "Dagger",
+            "type": 1,
+            "icon": "miya/equip/d1f7f93bd93372015aa37eb5ed788f06.png",
+            "attr_tips": ["+10% Attack Speed"],
+            "ex_attr_tips": null,
+            "skill_tips": null,
+            "custom": {
+              "group": "Attack",
+              "stats": {
+                "PercentAttackSpeedMod": 0.1
+              },
+              "effect": {},
+              "from": [],
+              "into": [1006, 2003, 2006, 2007, 2305, 3005, 2108, 2011],
+              "tags": ["attack speed"],
+              "maps": null,
+              "tier": 1,
+              "plaintext": null,
+              "consumed": false,
+              "inStore": true,
+              "gold": {
+                "base": 280,
+                "sell": 168
+              }
+            }
+          },
+          {
+            "id": 1003,
+            "name": "Javelin",
+            "type": 2,
+            "icon": "miya/equip/d77c852c7539d6ccfe4a3fbfd4f26ac8.png",
+            "attr_tips": ["+8% Crit Chance"],
+            "ex_attr_tips": null,
+            "skill_tips": null,
+            "custom": {
+              "group": "Attack",
+              "stats": {
+                "PercentCritChanceMod": 0.08
+              },
+              "effect": {},
+              "from": [],
+              "into": [2003, 3003, 3006],
+              "tags": ["crit chance"],
+              "maps": null,
+              "tier": 1,
+              "plaintext": null,
+              "consumed": false,
+              "inStore": true,
+              "gold": {
+                "base": 320,
+                "sell": 192
+              }
+            }
+          },
+          {
+            "id": 1004,
+            "name": "Vampire Mallet",
+            "type": 0,
+            "icon": "miya/equip/6a50d21058b8b44459f42e2320fc333a.png",
+            "attr_tips": ["+8 Extra Physical ATK", "+8% Physical Lifesteal"],
+            "ex_attr_tips": null,
+            "skill_tips": null,
+            "custom": {
+              "group": "Attack",
+              "stats": {
+                "FlatPhysicalDamageMod": 8,
+                "PercentLifeStealMod": 0.08
+              },
+              "effect": {},
+              "from": [],
+              "into": [3002, 3004, 2006, 2011],
+              "tags": ["physical attack","physical lifesteal"],
+              "maps": null,
+              "tier": 1,
+              "plaintext": null,
+              "consumed": false,
+              "inStore": true,
+              "gold": {
+                "base": 400,
+                "sell": 240
+              }
+            }
+          },
+          {
+            "id": 1005,
+            "name": "Iron Hunting Bow",
+            "type": 1,
+            "icon": "miya/equip/bee6a08904f63eba85c8ab543355c969.png",
+            "attr_tips": ["+10 Extra Physical ATK", "+5% CD Reduction"],
+            "ex_attr_tips": null,
+            "skill_tips": null,
+            "custom": {
+              "group": "Attack",
+              "stats": {
+                "FlatPhysicalDamageMod": 10,
+                "rPercentCooldownMod": 0.05
+              },
+              "effect": {},
+              "from": [],
+              "into": [2007, 3010, 2208],
+              "tags": ["physical attack","cooldown reduction"],
+              "maps": null,
+              "tier": 1,
+              "plaintext": null,
+              "consumed": false,
+              "inStore": true,
+              "gold": {
+                "base": 450,
+                "sell": 270
+              }
+            }
+          },
+          {
+            "id": 1006,
+            "name": "Regular Spear",
+            "type": 2,
+            "icon": "miya/equip/2111f599baf87d773bb84d7e0253d8b5.png",
+            "attr_tips": ["+20 Extra Physical ATK", "+10% Attack Speed"],
+            "ex_attr_tips": null,
+            "skill_tips": null,
+            "custom": {
+              "group": "Attack",
+              "stats": {
+                "FlatPhysicalDamageMod": 20,
+                "PercentAttackSpeedMod": 0.1
+              },
+              "effect": {},
+              "from": [1001, 1002],
+              "into": [2006, 2008, 2009],
+              "tags": ["physical attack","attack speed"],
+              "maps": null,
+              "tier": 1,
+              "plaintext": null,
+              "consumed": false,
+              "inStore": true,
+              "gold": {
+                "base": 600,
+                "sell": 360
+              }
+            }
+          },
+          {
+            "id": 1010,
+            "name": "Power Potion",
+            "type": 0,
+            "icon": "miya/equip/f058b32d3baac91cac370afde3ff4476.png",
+            "attr_tips": null,
+            "ex_attr_tips": null,
+            "skill_tips": [
+              "Unique Passive-Increase power:Automatically used after purchased, giving 30 physical attack, 5% of physical lifesteal. Lasts 120 seconds. Only one potion effect can be used at any one time."
+            ],
+            "custom": {
+              "group": "Attack",
+              "stats": {},
+              "effect": {
+                    "Effect1Amount":30,
+                    "Effect2Amount":0.05,
+                    "Effect3Amount":120
+              },
+              "from": [],
+              "into": [],
+              "tags": ["buff","physical attack","physical lifesteal"],
+              "maps": null,
+              "tier": 1,
+              "plaintext": null,
+              "consumed": true,
+              "inStore": true,
+              "gold": {
+                "base": 1500,
+                "sell": 0
+              }
+            }
+          },
+          {
+            "id": 1101,
+            "name": "Mystery Codex",
+            "type": 1,
+            "icon": "miya/equip/34ce11d3d5a52a28f447176239feaf34.png",
+            "attr_tips": ["+15 Magic Power"],
+            "ex_attr_tips": null,
+            "skill_tips": null,
+            "custom": {
+                "group": "Magic",
+                "stats": {
+                    "FlatMagicDamageMod":15
+                },
+                "effect": {},
+                "from": [],
+                "into": [1105,2101,2102,2104,3105,2110],
+                "tags": ["magic power"],
+                "maps": null,
+                "tier": 1,
+                "plaintext": null,
+                "consumed": false,
+                "inStore": true,
+                "gold": {
+                  "base": 300,
+                  "sell": 180
+                }
+              }            
+          },
+          {
+            "id": 1102,
+            "name": "Power Crystal",
+            "type": 2,
+            "icon": "miya/equip/92f1c6b842558d50204541a1a278b0aa.png",
+            "attr_tips": ["+280 Mana"],
+            "ex_attr_tips": null,
+            "skill_tips": null,
+            "custom": {
+                "group": "Magic",
+                "stats": {
+                    "FlatMPPoolMod":280
+                },
+                "effect": {},
+                "from": [],
+                "into": [2105,2204,3110,3209],
+                "tags": ["mana"],
+                "maps": null,
+                "tier": 1,
+                "plaintext": null,
+                "consumed": false,
+                "inStore": true,
+                "gold": {
+                  "base": 220,
+                  "sell": 132
+                }
+              }    
+          },
+          {
+            "id": 1103,
+            "name": "Magic Necklace",
+            "type": 0,
+            "icon": "miya/equip/01168f5e8cf9d14bd10015edec66671c.png",
+            "attr_tips": ["+10 Mana Regen"],
+            "ex_attr_tips": null,
+            "skill_tips": null,
+            "custom": {
+                "group": "Magic",
+                "stats": {
+                    "FlatMPRegenMod":10
+                },
+                "effect": {},
+                "from": [],
+                "into": [2103,2106,2308,3401],
+                "tags": ["mana regen"],
+                "maps": null,
+                "tier": 1,
+                "plaintext": null,
+                "consumed": false,
+                "inStore": true,
+                "gold": {
+                  "base": 120,
+                  "sell": 72
+                }
+              }    
+          },
+          {
+            "id": 1104,
+            "name": "Book of Sages",
+            "type": 1,
+            "icon": "miya/equip/f1ce58980e8cb1737bdbd478133291b6.png",
+            "attr_tips": ["+8 Magic Power", "+5% CD Reduction"],
+            "ex_attr_tips": null,
+            "skill_tips": null,
+            "custom": {
+                "group": "Magic",
+                "stats": {
+                    "FlatMagicDamageMod":8,
+                    "rPercentCooldownMod":0.05
+                },
+                "effect": {},
+                "from": [],
+                "into": [2102,2106,3109,2110,3110],
+                "tags": ["magic power","cooldown reduction"],
+                "maps": null,
+                "tier": 1,
+                "plaintext": null,
+                "consumed": false,
+                "inStore": true,
+                "gold": {
+                  "base": 450,
+                  "sell": 270
+                }
+              }    
+          },
+          {
+            "id": 1105,
+            "name": "Mystic Container",
+            "type": 2,
+            "icon": "miya/equip/4188efd758c29cade694a2bcb8ca2946.png",
+            "attr_tips": ["+15 Magic Power", "+10% Magic Lifesteal"],
+            "ex_attr_tips": null,
+            "skill_tips": null,
+            "custom": {
+                "group": "Magic",
+                "stats": {
+                    "FlatMagicDamageMod":15,
+                    "PercentMagicLifeStealMod":0.10
+                },
+                "effect": {},
+                "from": [],
+                "into": [3103,3104,3401],
+                "tags": ["magic power","magic lifesteal"],
+                "maps": null,
+                "tier": 1,
+                "plaintext": null,
+                "consumed": false,
+                "inStore": true,
+                "gold": {
+                  "base": 500,
+                  "sell": 300
+                }
+              }    
+          },
+          {
+            "id": 1110,
+            "name": "Magic Potion",
+            "type": 0,
+            "icon": "miya/equip/c3e2fa37af5a42bf1321e8c27b85d657.png",
+            "attr_tips": null,
+            "ex_attr_tips": null,
+            "skill_tips": [
+              "Unique Passive-Increase power:Automatically used after purchased, giving 30 magic power, 5% of cooldown reduction. Lasts 120 seconds. Only one potion effect can be used at any one time."
+            ],
+            "custom": {
+                "group": "Magic",
+                "stats": {},
+                "effect": {
+                    "Effect1Amount":30,
+                    "Effect2Amount":0.05,
+                    "Effect3Amount":120
+                },
+                "from": [],
+                "into": [],
+                "tags": ["buff","magic power","cooldown reduction"],
+                "maps": null,
+                "tier": 1,
+                "plaintext": null,
+                "consumed": true,
+                "inStore": true,
+                "gold": {
+                  "base": 1500,
+                  "sell": 0
+                }
+              }  
+          },
+          {
+            "id": 1111,
+            "name": "Odd Potion",
+            "type": 0,
+            "icon": "miya/equip/f743bb3ae3f170d52a286446c35e98ba.png",
+            "attr_tips": null,
+            "ex_attr_tips": null,
+            "skill_tips": [
+              "Unique Passive-Success:Purchase this item and you will be immune when inflicted by an allied Jawhead."
+            ]
+          },
+          {
+            "id": 1112,
+            "name": "Broken Heart",
+            "type": 0,
+            "icon": "miya/equip/c296dd9a462a74ea0b409a1883e8b93b.png",
+            "attr_tips": null,
+            "ex_attr_tips": null,
+            "skill_tips": [
+              "Unique Passive-Success:After purchasing, Cecilion will not be able to use Moonlit Waltz on you during this game."
+            ]
+          },
+          {
+            "id": 1201,
+            "name": "Vitality Crystal",
+            "type": 2,
+            "icon": "miya/equip/acc6e29a1f5e547087630ce539f0b92a.png",
+            "attr_tips": ["+230 HP"],
+            "ex_attr_tips": null,
+            "skill_tips": null,
+            "custom": {
+                "group": "Defense",
+                "stats": {
+                    "FlatHPPoolMod":230
+                },
+                "effect": {},
+                "from": [],
+                "into": [3103,2002,2105,2201,3105,2202,2203,3007,3209],
+                "tags": ["hp"],
+                "maps": null,
+                "tier": 1,
+                "plaintext": null,
+                "consumed": false,
+                "inStore": true,
+                "gold": {
+                  "base": 300,
+                  "sell": 180
+                }
+              }  
+          },
+          {
+            "id": 1202,
+            "name": "Leather Jerkin",
+            "type": 2,
+            "icon": "miya/equip/651fb8c311a88cd430fecd8149f78648.png",
+            "attr_tips": ["+18 Physical Defense"],
+            "ex_attr_tips": null,
+            "skill_tips": null,
+            "custom": {
+                "group": "",
+                "stats": {
+                    "FlatArmorMod":18
+                },
+                "effect": {},
+                "from": [],
+                "into": [2107,2204,2205,2207,3207,2301,3402,2209,3206],
+                "tags": ["physical defense"],
+                "maps": null,
+                "tier": 1,
+                "plaintext": null,
+                "consumed": false,
+                "inStore": true,
+                "gold": {
+                  "base": 220,
+                  "sell": 132
+                }
+              }  
+          },
+          {
+            "id": 1203,
+            "name": "Magic Resist Cloak",
+            "type": 0,
+            "icon": "miya/equip/d5cfd390400d1bc8baa3cafba04269a8.png",
+            "attr_tips": ["+18 Magic Defense"],
+            "ex_attr_tips": null,
+            "skill_tips": null,
+            "custom": {
+                "group": "Defense",
+                "stats": {
+                    "FlatMagicArmorMod":18
+                },
+                "effect": {},
+                "from": [],
+                "into": [2005,2203,2302,3402,3201],
+                "tags": ["magic resistance"],
+                "maps": null,
+                "tier": 1,
+                "plaintext": null,
+                "consumed": false,
+                "inStore": true,
+                "gold": {
+                  "base": 220,
+                  "sell": 132
+                }
+              }  
+          },
+          {
+            "id": 1204,
+            "name": "Healing Necklace",
+            "type": 1,
+            "icon": "miya/equip/552551cedbfaebeb69652a6221fa8498.png",
+            "attr_tips": ["+20 HP Regen"],
+            "ex_attr_tips": null,
+            "skill_tips": null,
+            "custom": {
+                "group": "Defense",
+                "stats": {
+                    "FlatHPRegenMod":20
+                },
+                "effect": {},
+                "from": [],
+                "into": [3202],
+                "tags": ["hp regen"],
+                "maps": null,
+                "tier": 1,
+                "plaintext": null,
+                "consumed": false,
+                "inStore": true,
+                "gold": {
+                  "base": 140,
+                  "sell": 84
+                }
+              }  
+          },
+          {
+            "id": 1205,
+            "name": "Hero's Ring",
+            "type": 2,
+            "icon": "miya/equip/a2a2acc55a724ce1dd4d8345991d9b47.png",
+            "attr_tips": ["+150 HP", "+5% CD Reduction"],
+            "ex_attr_tips": null,
+            "skill_tips": null,
+            "custom": {
+                "group": "Defense",
+                "stats": {
+                    "FlatHPPoolMod":150,
+                    "rPercentCooldownMod":0.05
+                },
+                "effect": {},
+                "from": [],
+                "into": [3204],
+                "tags": ["cooldown reduction","hp"],
+                "maps": null,
+                "tier": 1,
+                "plaintext": null,
+                "consumed": false,
+                "inStore": true,
+                "gold": {
+                  "base": 450,
+                  "sell": 270
+                }
+              }  
+          },
+          {
+            "id": 1210,
+            "name": "Rock Potion",
+            "type": 0,
+            "icon": "miya/equip/d84b154db9c3bb22c178cec24b036292.png",
+            "attr_tips": null,
+            "ex_attr_tips": null,
+            "skill_tips": [
+              "Unique Passive-Increase power:Automatically used after purchased, adds 500 points to Max HP and reduces 15% of CC time. Lasts 120. Only one potion effect can be used at any one time."
+            ],
+            "custom": {
+                "group": "Defense",
+                "stats": {},
+                "effect": {
+                    "Effect1Amount":500,
+                    "Effect2Amount":0.15,
+                    "Effect3Amount":120
+                },
+                "from": [],
+                "into": [],
+                "tags": ["hp","reduce cc"],
+                "maps": null,
+                "tier": 1,
+                "plaintext": null,
+                "consumed": true,
+                "inStore": true,
+                "gold": {
+                  "base": 1500,
+                  "sell": 0
+                }
+              }  
+          },
+          {
+            "id": 1301,
+            "name": "Boots",
+            "type": 2,
+            "icon": "miya/equip/77ff18a9aa18e45538cff689052aa32a.png",
+            "attr_tips": null,
+            "ex_attr_tips": ["Unique:+20 Movement SPD"],
+            "skill_tips": null,
+            "custom": {
+                "group": "Movement",
+                "stats": {
+                    "FlatMovementSpeedMod":20
+                },
+                "effect": {},
+                "from": [],
+                "into": [2301,2302,2303,2304,2305,2306,2308],
+                "tags": ["movement"],
+                "maps": null,
+                "tier": 1,
+                "plaintext": null,
+                "consumed": false,
+                "inStore": true,
+                "gold": {
+                  "base": 250,
+                  "sell": 150
+                }
+              }  
+          },
+          {
+            "id": 1401,
+            "name": "Hunter's Knife",
+            "type": 0,
+            "icon": "miya/equip/afc55738a2523ede09f7313795f895ea.png",
+            "attr_tips": null,
+            "ex_attr_tips": ["Unique:+20% Damage to Monsters"],
+            "skill_tips": [
+              "Unique Passive-Greed:Gain extra 15% EXP when jungling. "
+            ],
+            "custom": {
+                "group": "Jungle",
+                "stats": {},
+                "effect": {
+                    "Effect1Amount":0.20,
+                    "Effect2Amount":0.15
+                },
+                "from": [],
+                "into": [2401,2402,2403],
+                "tags": ["jungling","exp buff","farming"],
+                "maps": null,
+                "tier": 1,
+                "plaintext": null,
+                "consumed": false,
+                "inStore": true,
+                "gold": {
+                  "base": 280,
+                  "sell": 168
+                }
+              }  
+          },
+          {
+            "id": 1501,
+            "name": "Wooden Mask",
+            "type": 1,
+            "icon": "miya/equip/a74e5e6af25eedd4ab6f008a46edf24a.png",
+            "attr_tips": null,
+            "ex_attr_tips": ["Unique:+15 Movement SPD"],
+            "skill_tips": [
+              "Unique Passive-Devotion:Obtain 2 EXP and Gold every 4s. In the first 12 minutes of the match, this equipment makes you gain nothing from Minions or Creeps if there are teammates without Roaming Equipment, or those with but have higher EXP or Gold than yours around you. They will share the whole EXP or Gold.",
+              "Unique Passive-Thriving:Gains extra 15% Gold and EXP with Assists. When your Gold ranks the 5th in your team, increase Gold you gain to 20 per 4s. When your EXP ranks the 5th in your team, increase EXP you gain to 35 per 4s. "
+            ],
+            "custom": {
+                "group": "Roam",
+                "stats": {
+                    "FlatMovementSpeedMod":15
+                },
+                "effect": {
+                    "Effect1Amount":2,
+                    "Effect2Amount":4,
+                    "Effect3Amount":12,
+                    "Effect4Amount":0.15,
+                    "Effect5Amount":5,
+                    "Effect6Amount":20,
+                    "Effect7Amount":4,
+                    "Effect8Amount":5,
+                    "Effect9Amount":34,
+                    "Effect10Amount":4
+                },
+                "from": [],
+                "into": [2501],
+                "tags": ["ganking","gold buff","exp buff","movement"],
+                "maps": null,
+                "tier": 1,
+                "plaintext": null,
+                "consumed": false,
+                "inStore": true,
+                "gold": {
+                  "base": 280,
+                  "sell": 168
+                }
+              }  
+          },
+          {
+            "id": 2001,
+            "name": "Legion Sword",
+            "type": 1,
+            "icon": "miya/equip/c5cbbb5ca584e36a56ca84a69906577c.png",
+            "attr_tips": ["+60 Extra Physical ATK"],
+            "ex_attr_tips": null,
+            "skill_tips": null,
+            "custom": {
+                "group": "Attack",
+                "stats": {
+                    "FlatPhysicalDamageMod":60
+                },
+                "effect": {},
+                "from": [1001,1001],
+                "into": [3001,3002,3003,3008,3013],
+                "tags": ["physical attack"],
+                "maps": null,
+                "tier": 2,
+                "plaintext": null,
+                "consumed": false,
+                "inStore": true,
+                "gold": {
+                  "base": 910,
+                  "sell": 546
+                }
+              }              
+          },
+          {
+            "id": 2002,
+            "name": "Ogre Tomahawk",
+            "type": 2,
+            "icon": "miya/equip/0bde8b5d870a5c39744c4732c71030df.png",
+            "attr_tips": ["+30 Extra Physical ATK", "+230 HP"],
+            "ex_attr_tips": null,
+            "skill_tips": [
+              "Unique Passive-Angry:Basic Attack will increase Movement Speed by 10%."
+            ],
+            "custom": {
+                "group": "Attack", 
+                "stats": {
+                    "FlatPhysicalDamageMod":30,
+                    "FlatHPPoolMod":230
+                },
+                "effect": {
+                    "Effect1Amount":0.10
+                },
+                "from": [1001,1201],
+                "into": [3004],
+                "tags": ["movement","physical attack","hp"],
+                "maps": null,
+                "tier": 2,
+                "plaintext": null,
+                "consumed": false,
+                "inStore": true,
+                "gold": {
+                  "base": 790,
+                  "sell": 474
+                }
+              }  
+            
+          },
+          {
+            "id": 2003,
+            "name": "Rogue Meteor",
+            "type": 2,
+            "icon": "miya/equip/9a7b202ab0ddc809dec8fd2a65de995d.png",
+            "attr_tips": ["+15% Attack Speed", "+10% Crit Chance"],
+            "ex_attr_tips": null,
+            "skill_tips": null,
+            "custom": {
+                "group": "Attack",
+                "stats": {
+                    "PercentAttackSpeedMod":0.15,
+                    "PercentCritChanceMod":0.10
+                },
+                "effect": {},
+                "from": [1002,1003],
+                "into": [3005,3006],
+                "tags": ["attack speed","crit chance"],
+                "maps": null,
+                "tier": 2,
+                "plaintext": null,
+                "consumed": false,
+                "inStore": true,
+                "gold": {
+                  "base": 900,
+                  "sell": 540
+                }
+              }  
+            
+          },
+          {
+            "id": 2004,
+            "name": "Fury hammer",
+            "type": 0,
+            "icon": "miya/equip/0efe581d5db95d75990aa7ab1edc5418.png",
+            "attr_tips": ["+35 Extra Physical ATK"],
+            "ex_attr_tips": ["Unique:+12 Physical PEN"],
+            "skill_tips": null,
+            "custom": {
+                "group": "Attack",
+                "stats": {
+                    "rFlatArmorPenetrationMod":12,
+                    "FlatPhysicalDamageMod":35
+                },
+                "effect": {},
+                "from": [1001],
+                "into": [3007,3009],
+                "tags": ["physical penetration","physical attack"],
+                "maps": null,
+                "tier": 2,
+                "plaintext": null,
+                "consumed": false,
+                "inStore": true,
+                "gold": {
+                  "base": 980,
+                  "sell": 588
+                }
+              }            
+          },
+          {
+            "id": 2005,
+            "name": "Magic Blade",
+            "type": 1,
+            "icon": "miya/equip/fc8b2a72390272272ed03af57312b81b.png",
+            "attr_tips": ["+40 Extra Physical ATK", "+24 Magic Defense"],
+            "ex_attr_tips": null,
+            "skill_tips": [
+              "Unique Passive-Lifeline:Once the hero’s HP falls below 30% they generate a shield that absorbs 280~700 points of damage (increases with level) that lasts for 3 seconds. CD is 40 seconds. "
+            ],
+            "custom": {
+                "group": "Attack",
+                "stats": {
+                    "FlatPhysicalDamageMod":40,
+                    "FlatMagicArmorMod":24
+                },
+                "effect": {
+                    "Effect1Amount":0.30,
+                    "Effect2Amount":280,
+                    "Effect3Amount":700,
+                    "Effect4Amount":15,
+                    "Effect5Amount":3,
+                    "Effect6Amount":40
+                },
+                "from": [2001,1203],
+                "into": [3012],
+                "tags": ["magic resistance","shield","buff","physical attack"],
+                "maps": null,
+                "tier": 2,
+                "plaintext": null,
+                "consumed": false,
+                "inStore": true,
+                "gold": {
+                  "base": 1150,
+                  "sell": 690
+                }
+              }            
+          },
+          {
+            "id": 2006,
+            "name": "Demon Hunter Sword",
+            "type": 2,
+            "icon": "miya/equip/d62d4584c6efcc8b0a51929b323b05f1.png",
+            "attr_tips": ["+35 Extra Physical ATK", "+25% Attack Speed"],
+            "ex_attr_tips": null,
+            "skill_tips": [
+              "Unique Passive-Devour:Basic attacks will deal 9% of the target's current HP as additional physical damage (up to 60 against creeps and minions).",
+              "Unique Passive-Devour:Each Basic Attack grants 4% Physical Lifesteal for 3s. Stacks up to 5 times."
+            ],
+            "custom": {
+                "group": "Attack",
+                "stats": {
+                    "FlatPhysicalDamageMod":35,
+                    "PercentAttackSpeedMod":0.25
+                },
+                "effect": {
+                    "Effect10Amount":0.09,
+                    "Effect2Amount":60,
+                    "Effect3Amount":0.04,
+                    "Effect4Amount":3,
+                    "Effect5Amount":5
+                },
+                "from": [1006,1002,1004],
+                "into": [],
+                "tags": ["jungling","physical attack","attack speed","physical lifesteal"],
+                "maps": null,
+                "tier": 3,
+                "plaintext": null,
+                "consumed": false,
+                "inStore": true,
+                "gold": {
+                  "base": 2180,
+                  "sell": 1308
+                }
+              }          
+          },
+          {
+            "id": 2007,
+            "name": "Deadly Blade",
+            "type": 0,
+            "icon": "miya/equip/21aff1aa5a59d2cd5459283c9d6c02a0.png",
+            "attr_tips": ["+20 Extra Physical ATK", "+15% Attack Speed"],
+            "ex_attr_tips": null,
+            "skill_tips": [
+              "Unique Passive-Life Drain:Basic Attack reduces HP Regen Effect by 50% for 3s."
+            ],
+            "custom": {
+                "group": "Attack",
+                "stats": {
+                    "FlatPhysicalDamageMod":20,
+                    "PercentAttackSpeedMod":0.15
+                },
+                "effect": {
+                    "Effect1Amount":0.50,
+                    "Effect2Amount":3
+                },
+                "from": [1001,1002],
+                "into": [3013],
+                "tags": ["hp regen","physical attack","attack speed"],
+                "maps": null,
+                "tier": 2,
+                "plaintext": null,
+                "consumed": false,
+                "inStore": true,
+                "gold": {
+                  "base": 1200,
+                  "sell": 720
+                }
+              }           
+          },
+          {
+            "id": 2008,
+            "name": "Corrosion Scythe",
+            "type": 1,
+            "icon": "miya/equip/475417731cd58ae556dbb4a82fe974bc.png",
+            "attr_tips": [
+              "+50 Extra Physical ATK",
+              "+5% Movement SPD",
+              "+25% Attack Speed"
+            ],
+            "ex_attr_tips": null,
+            "skill_tips": [
+              "Unique Passive-Corrosion:Basic Attack has 50% probability of slowing the enemy unit by 30%. Long-ranged Basic Attack only slows enemies by 15%. ",
+              "Unique Passive-Impulse:When each Basic Attack deals damage to enemies, increase Attack Speed by 8%. Stacks up to 5 times. Lasts 3s."
+            ],
+            "custom": {
+                "group": "Attack",
+                "stats": {
+                    "FlatPhysicalDamageMod":50,
+                    "PercentMovementSpeedMod":0.05,
+                    "PercentAttackSpeedMod":0.25
+                },
+                "effect": {
+                    "Effect1Amount":0.50,
+                    "Effect2Amount":0.30,
+                    "Effect3Amount":0.15,
+                    "Effect4Amount":0.08,
+                    "Effect5Amount":5,
+                    "Effect6Amount":3
+                },
+                "from": [1006,1006],
+                "into": [],
+                "tags": ["physical attack","movement","attack speed","slow enemies"],
+                "maps": null,
+                "tier": 3,
+                "plaintext": null,
+                "consumed": false,
+                "inStore": true,
+                "gold": {
+                  "base": 2050,
+                  "sell": 1230
+                }
+              }  
+            
+          },
+          {
+            "id": 2009,
+            "name": "Golden Staff",
+            "type": 2,
+            "icon": "miya/equip/cab7e636b1d7484d109577123daedf65.png",
+            "attr_tips": ["+65 Extra Physical ATK", "+30% Attack Speed"],
+            "ex_attr_tips": null,
+            "skill_tips": [
+              "Unique Passive-Swift:Unable to increase critical chance. Every 1% of critical chance gained will increase attack speed by 1%.",
+              "Unique Passive-Endless Strike:Normal basic attacks add a stack of Endless Strike. After accumulating 2 stacks of Endless Strike, the effect of the next basic attack is triggered 3 times. "
+            ],
+            "custom": {
+                "group": "Attack",
+                "stats": {
+                    "FlatPhysicalDamageMod":65,
+                    "PercentAttackSpeedMod":0.30
+                },
+                "effect": {
+                    "Effect1Amount":0.01,
+                    "Effect2Amount":0.01,
+                    "Effect3Amount":2,
+                    "Effect4Amount":3
+                },
+                "from": [1002,1002,1006],
+                "into": [],
+                "tags": ["attack speed","physical attack"],
+                "maps": null,
+                "tier": 3,
+                "plaintext": null,
+                "consumed": false,
+                "inStore": true,
+                "gold": {
+                  "base": 2100,
+                  "sell": 1260
+                }
+              }  
+            
+          },
+          {
+            "id": 2010,
+            "name": "Greedy Crusher",
+            "type": 2,
+            "icon": "",
+            "attr_tips": ["+20 Extra Physical ATK", "+10% Attack Speed"],
+            "ex_attr_tips": null,
+            "skill_tips": [
+              "Unique Passive-Warcry:Each basic attack grants 10 HP",
+              "Unique Passive-Eliminate:Kill minions and creeps to gain extra 15% gold"
+            ],
+            "custom": {
+                "group": "Attack",
+                "stats": {
+                    "FlatPhysicalDamageMod":20,
+                    "PercentAttackSpeedMod":0.10
+                },
+                "effect": {
+                    "Effect1Amount":10,
+                    "Effect2Amount":0.15
+                },
+                "from": [],
+                "into": [],
+                "tags": ["physical attack","attack speed","unreleased"],
+                "maps": null,
+                "tier": null,
+                "plaintext": null,
+                "consumed": false,
+                "inStore": false,
+                "gold": {
+                  "base": 0,
+                  "sell": 0
+                }
+              }  
+            
+          },
+          {
+            "id": 2011,
+            "name": "Wind of Nature",
+            "type": 5,
+            "icon": "miya/equip/ccdeba5a492b078a5743a5e601018e75.png",
+            "attr_tips": [
+              "+10 Extra Physical ATK",
+              "+25% Attack Speed",
+              "+15% Physical Lifesteal"
+            ],
+            "ex_attr_tips": null,
+            "skill_tips": [
+              "Active Skill-Wind Chant: Immune to all Phy.DMG. Last 2s.(Duration becomes half when used by non-marksmen). CD 80s"
+            ],
+            "custom": {
+                "group": "Attack",
+                "stats": {
+                    "FlatPhysicalDamageMod":10,
+                    "PercentAttackSpeedMod":0.25,
+                    "PercentLifeStealMod":0.15
+                },
+                "effect": {
+                    "Effect1Amount":2,
+                    "Effect2Amount":80
+                },
+                "from": [1002,1002,1004],
+                "into": [],
+                "tags": ["active","immune","physical lifesteal","physical attack","physical lifesteal","attack speed"],
+                "maps": null,
+                "tier": 2,
+                "plaintext": null,
+                "consumed": false,
+                "inStore": true,
+                "gold": {
+                  "base": 1910,
+                  "sell": 1146
+                }
+              }  
+            
+          },
+          {
+            "id": 2012,
+            "name": "Evil Hunter",
+            "type": 0,
+            "icon": "miya/equip/a122da77d248ade2b1e628fbcd5bc575.png",
+            "attr_tips": ["+130 Extra Physical ATK", "+20% Attack Speed"],
+            "ex_attr_tips": ["Unique:+40% Physical PEN"],
+            "skill_tips": [
+              "Unique Passive-Life Drain:Basic Attack reduces HP Regen Effect by 50% for 5s.",
+              "Unique Passive-Armor Buster:Basic Attack will ignore 20% of a Turret's Defense."
+            ],
+            "custom": {
+                "group": "Attack",
+                "stats": {
+                    "FlatPhysicalDamageMod":130,
+                    "PercentAttackSpeedMod":0.20,
+                    "rPercentArmorPenetrationMod":0.40
+                },
+                "effect": {
+                    "Effect1Amount":0.50,
+                    "Effect2Amount":5,
+                    "Effect3Amount":0.20
+                },
+                "from": [2007,3001],
+                "into": [],
+                "tags": ["physical attack","attack speed","physical penetration"],
+                "maps": ["brawl"],
+                "tier": 4,
+                "plaintext": null,
+                "consumed": false,
+                "inStore": true,
+                "gold": {
+                  "base": 4610,
+                  "sell": 0
+                }
+              }  
+            
+          },
+          {
+            "id": 2101,
+            "name": "Magic Wand",
+            "type": 2,
+            "icon": "miya/equip/41ff3b05187522939e54cbff8f45fb8d.png",
+            "attr_tips": ["+45 Magic Power"],
+            "ex_attr_tips": null,
+            "skill_tips": null,
+            "custom": {
+                "group": "Magic",
+                "stats": {
+                    "FlatMagicDamageMod":45
+                },
+                "effect": {},
+                "from": [1101],
+                "into": [1105,2110,3101,3102,3103,3104,3106,3107,3108,3109,3111,2107],
+                "tags": ["magic power"],
+                "maps": null,
+                "tier": 2,
+                "plaintext": null,
+                "consumed": false,
+                "inStore": true,
+                "gold": {
+                  "base": 820,
+                  "sell": 492
+                }
+              }  
+            
+          },
+          {
+            "id": 2102,
+            "name": "Tome of Evil",
+            "type": 0,
+            "icon": "miya/equip/ddf603c314d43c239b4c09db4bfc00ef.png",
+            "attr_tips": [
+              "+35 Magic Power",
+              "+20 Mana Regen",
+              "+8% CD Reduction"
+            ],
+            "ex_attr_tips": null,
+            "skill_tips": null,
+            "custom": {
+                "group": "Magic",
+                "stats": {
+                    "FlatMagicDamageMod":35,
+                    "FlatMPRegenMod":20,
+                    "rPercentCooldownMod":0.08
+                },
+                "effect": {},
+                "from": [1101,1104],
+                "into": [2106],
+                "tags": ["magic power","mana regen","cooldown reduction"],
+                "maps": null,
+                "tier": 2,
+                "plaintext": null,
+                "consumed": false,
+                "inStore": true,
+                "gold": {
+                  "base": 950,
+                  "sell": 570
+                }
+              }  
+            
+          },
+          {
+            "id": 2103,
+            "name": "Azure Blade",
+            "type": 1,
+            "icon": "miya/equip/0753603a048c18b4e900bb3cdbcb1613.png",
+            "attr_tips": ["+25 Mana Regen", "+5% CD Reduction"],
+            "ex_attr_tips": null,
+            "skill_tips": [
+              "Unique Passive-Judgement:After using a skill, the next Basic Attack deals 50 extra True Damage. CD: 1.5s."
+            ],
+            "custom": {
+                "group": "Magic",
+                "stats": {
+                    "FlatMPRegenMod":25,
+                    "rPercentCooldownMod":0.05
+                },
+                "effect": {
+                  "Effect1Amount":50,
+                  "Effect2Amount":1.5
+                },
+                "from": [1103,1103],
+                "into": [3004,3106,2209],
+                "tags": ["true damage","mana regen","cooldown reduction"],
+                "maps": null,
+                "tier": 2,
+                "plaintext": null,
+                "consumed": false,
+                "inStore": true,
+                "gold": {
+                  "base": 600,
+                  "sell": 360
+                }
+              }  
+            
+          },
+          {
+            "id": 2104,
+            "name": "Exotic Veil",
+            "type": 2,
+            "icon": "miya/equip/ce874414176d0a6156adda4a9213ea77.png",
+            "attr_tips": ["+30 Magic Power", "+5% Movement SPD"],
+            "ex_attr_tips": null,
+            "skill_tips": null,
+            "custom": {
+              "group": "Magic",
+              "stats": {
+                "FlatMagicDamageMod":30,
+                "PercentMovementSpeedMod":0.05
+              },
+              "effect": {},
+              "from": [1101],
+              "into": [3105,2108,3111],
+              "tags": ["magic power","movement"],
+              "maps": null,
+              "tier": 2,
+              "plaintext": null,
+              "consumed": false,
+              "inStore": true,
+              "gold": {
+                "base": 600,
+                "sell": 360
+              }
+            }  
+          
+          },
+          {
+            "id": 2105,
+            "name": "Elegant Gem",
+            "type": 0,
+            "icon": "miya/equip/e86bc3781cad9f07688dae4e6705e6fa.png",
+            "attr_tips": ["+300 HP", "+380 Mana"],
+            "ex_attr_tips": null,
+            "skill_tips": [
+              "Unique Passive-Gift:Regens 20% HP and Mana within 2 seconds of leveling up."
+            ],
+            "custom": {
+              "group": "Magic",
+              "stats": {
+                "FlatHPPoolMod":300,
+                "FlatMPPoolMod":380
+              },
+              "effect": {
+                "Effect1Amount":0.20,
+                "Effect2Amount":2
+              },
+              "from": [1102,1201],
+              "into": [3107],
+              "tags": ["hp","mana","hp regen","mana regen"],
+              "maps": null,
+              "tier": 2,
+              "plaintext": null,
+              "consumed": false,
+              "inStore": true,
+              "gold": {
+                "base": 700,
+                "sell": 420
+              }
+            }  
+          
+          },
+          {
+            "id": 2106,
+            "name": "Enchanted Talisman",
+            "type": 1,
+            "icon": "miya/equip/e0e80a0cc4868a0d3197aa0601481dc0.png",
+            "attr_tips": ["+50 Magic Power", "+250 HP", "+20% CD Reduction"],
+            "ex_attr_tips": null,
+            "skill_tips": [
+              "Unique Passive-Mana Spring:Regenerates 12% of Max Mana every 10s in total."
+            ],
+            "custom": {
+              "group": "Magic",
+              "stats": {
+                "FlatMagicDamageMod":50,
+                "FlatHPPoolMod":250,
+                "rPercentCooldownMod":0.20
+              },
+              "effect": {
+                "Effect1Amount":0.12,
+                "Effect2Amount":10
+              },
+              "from": [1103,1104,2102],
+              "into": [],
+              "tags": ["mana regen"],
+              "maps": null,
+              "tier": 3,
+              "plaintext": null,
+              "consumed": false,
+              "inStore": true,
+              "gold": {
+                "base": 1870,
+                "sell": 1122
+              }
+            }  
+          
+          },
+          {
+            "id": 2107,
+            "name": "Winter Truncheon",
+            "type": 5,
+            "icon": "miya/equip/2a8ce1ca3fc09b6547199d2716503ce7.png",
+            "attr_tips": ["+60 Magic Power", "+25 Physical Defense", "+400 HP"],
+            "ex_attr_tips": null,
+            "skill_tips": [
+              "Active Skill-Frozen: Freeze upon using. The hero can't do anything but will be immune to all DMG and debuff. Last 2s, CD 100s"
+            ],
+            "custom": {
+              "group": "Magic",
+              "stats": {
+                "FlatMagicDamageMod":60,
+                "FlatArmorMod":25,
+                "FlatHPPoolMod":400
+              },
+              "effect": {
+                "Effect1Amount":2,
+                "Effect2Amount":100
+              },
+              "from": [1202,2101],
+              "into": [],
+              "tags": ["active","immune","magic power","physical defense","hp"],
+              "maps": null,
+              "tier": 3,
+              "plaintext": null,
+              "consumed": false,
+              "inStore": true,
+              "gold": {
+                "base": 1910,
+                "sell": 1146
+              }
+            }  
+          
+          },
+          {
+            "id": 2108,
+            "name": "Feather of Heaven",
+            "type": 0,
+            "icon": "miya/equip/f0ba073495caff936c73b6483340413a.png",
+            "attr_tips": [
+              "+65 Magic Power",
+              "+30% Attack Speed",
+              "+5% Movement SPD"
+            ],
+            "ex_attr_tips": null,
+            "skill_tips": [
+              "Unique Passive-Affliction:Basic Attack will deal 40% of the hero's Magic Attack as extra Magic Damage."
+            ],
+            "custom": {
+              "group": "Magic",
+              "stats": {
+                "FlatMagicDamageMod":65,
+                "PercentAttackSpeedMod":0.30,
+                "PercentMovementSpeedMod":0.05
+              },
+              "effect": {
+                "Effect1Amount":0.40
+              },
+              "from": [2104,1002,1002],
+              "into": [],
+              "tags": ["magic power","attack speed","movement","damage buff","buff"],
+              "maps": null,
+              "tier": 3,
+              "plaintext": null,
+              "consumed": false,
+              "inStore": true,
+              "gold": {
+                "base": 2030,
+                "sell": 1218
+              }
+            }  
+          
+          },
+          {
+            "id": 2110,
+            "name": "Necklace of Durance",
+            "type": 2,
+            "icon": "miya/equip/8183e951e5ee8c40b99060d11c40b7d4.png",
+            "attr_tips": [
+              "+65 Magic Power",
+              "+10% CD Reduction",
+              "+10% Magic Lifesteal"
+            ],
+            "ex_attr_tips": null,
+            "skill_tips": [
+              "Unique Passive-Life Drain:Reduces the regen effect of enemies with skill damage by 50% for 3s."
+            ],
+            "custom": {
+              "group": "Magic",
+              "stats": {
+                "FlatMagicDamageMod":65,
+                "rPercentCooldownMod":0.10,
+                "PercentMagicLifeStealMod":0.10
+              },
+              "effect": {
+                "Effect1Amount":0.50,
+                "Effect2Amount":3
+              },
+              "from": [1101,1104,2101],
+              "into": [],
+              "tags": ["debuff","magic power","cooldown reduction","magic lifesteal"],
+              "maps": null,
+              "tier": 3,
+              "plaintext": null,
+              "consumed": false,
+              "inStore": true,
+              "gold": {
+                "base": 2110,
+                "sell": 1266
+              }
+            }  
+          
+          },
+          {
+            "id": 2201,
+            "name": "Ares Belt",
+            "type": 1,
+            "icon": "miya/equip/7524ad7a0eb98cda4d7ffe105f734692.png",
+            "attr_tips": ["+770 HP"],
+            "ex_attr_tips": null,
+            "skill_tips": null,
+            "custom": {
+              "group": "Defense",
+              "stats": {
+                "FlatHPPoolMod":770
+              },
+              "effect": {},
+              "from": [1201],
+              "into": [3202,3203,3205,3208,3207,3209,2209,2208],
+              "tags": ["hp"],
+              "maps": null,
+              "tier": 2,
+              "plaintext": null,
+              "consumed": false,
+              "inStore": true,
+              "gold": {
+                "base": 900,
+                "sell": 540
+              }
+            }  
+          
+          },
+          {
+            "id": 2202,
+            "name": "Molten Essence",
+            "type": 2,
+            "icon": "miya/equip/a3cbaf3e7f14dda52baf532ed2d38eeb.png",
+            "attr_tips": ["+540 HP"],
+            "ex_attr_tips": null,
+            "skill_tips": [
+              "Unique Passive-Burning Soul:Deals 1% Magic Damage equal to the Max HP to nearby enemies per second. The damage will increase 50% to Minions."
+            ],
+            "custom": {
+              "group": "Defense",
+              "stats": {
+                "FlatHPPoolMod":540
+              },
+              "effect": {
+                "Effect1Amount":0.01,
+                "Effect2Amount":0.50
+              },
+              "from": [1201],
+              "into": [3201],
+              "tags": ["dot","hp","magic damage"],
+              "maps": null,
+              "tier": 2,
+              "plaintext": null,
+              "consumed": false,
+              "inStore": true,
+              "gold": {
+                "base": 870,
+                "sell": 522
+              }
+            }  
+          
+          },
+          {
+            "id": 2203,
+            "name": "Silence Robe",
+            "type": 2,
+            "icon": "miya/equip/eb9144b566be35e22517b0682d2c3b82.png",
+            "attr_tips": ["+540 HP", "+30 Magic Defense"],
+            "ex_attr_tips": null,
+            "skill_tips": null,
+            "custom": {
+              "group": "Defense",
+              "stats": {
+                "FlatHPPoolMod":540,
+                "FlatMagicArmorMod":30
+              },
+              "effect": {},
+              "from": [1201,1203],
+              "into": [3204,3205],
+              "tags": ["hp","magic resistance"],
+              "maps": null,
+              "tier": 2,
+              "plaintext": null,
+              "consumed": false,
+              "inStore": true,
+              "gold": {
+                "base": 1020,
+                "sell": 612
+              }
+            }  
+          
+          },
+          {
+            "id": 2204,
+            "name": "Black Ice Shield",
+            "type": 0,
+            "icon": "miya/equip/110aa6ee745c51aed0dfe4df88dc5c64.png",
+            "attr_tips": [
+              "+400 Mana",
+              "+22 Physical Defense",
+              "+10% CD Reduction"
+            ],
+            "ex_attr_tips": null,
+            "skill_tips": null,
+            "custom": {
+              "group": "Defense",
+              "stats": {
+                "FlatMPPoolMod":400,
+                "FlatArmorMod":22,
+                "rPercentCooldownMod":0.10
+              },
+              "effect": {},
+              "from": [1202,1102],
+              "into": [3206],
+              "tags": ["mana","physical defense","cooldown reduction"],
+              "maps": null,
+              "tier": 2,
+              "plaintext": null,
+              "consumed": false,
+              "inStore": true,
+              "gold": {
+                "base": 880,
+                "sell": 528
+              }
+            }  
+          
+          },
+          {
+            "id": 2205,
+            "name": "Dreadnaught Armor",
+            "type": 1,
+            "icon": "miya/equip/79e604d4fb559642a5e45a2754218262.png",
+            "attr_tips": ["+40 Physical Defense"],
+            "ex_attr_tips": null,
+            "skill_tips": [
+              "Unique Passive-Deter:When an enemy hero attacks, reduces Physical & Magic Attack by 4%. This effect lasts 2s. Stacks up to 3 times."
+            ],
+            "custom": {
+              "group": "Defense",
+              "stats": {
+                "FlatArmorMod":40
+              },
+              "effect": {
+                "Effect1Amount":0.04,
+                "Effect2Amount":2,
+                "Effect3Amount":3
+              },
+              "from": [1202,1202],
+              "into": [3203],
+              "tags": ["physical defense","debuff"],
+              "maps": null,
+              "tier": 2,
+              "plaintext": null,
+              "consumed": false,
+              "inStore": true,
+              "gold": {
+                "base": 730,
+                "sell": 438
+              }
+            }  
+          
+          },
+          {
+            "id": 2207,
+            "name": "Blade Armor",
+            "type": 0,
+            "icon": "miya/equip/a4c21eec202c09493a92acf48c7f4b6c.png",
+            "attr_tips": ["+90 Physical Defense"],
+            "ex_attr_tips": null,
+            "skill_tips": [
+              "Unique Passive-Vengeance:Deals 25% of opponent's physical attack as physical damage to an attacker when a basic attack is received."
+            ],
+            "custom": {
+              "group": "Defense",
+              "stats": {
+                "FlatArmorMod":90
+              },
+              "effect": {
+                "Effect1Amount":0.25
+              },
+              "from": [1202,1202,1202],
+              "into": [],
+              "tags": [],
+              "maps": null,
+              "tier": 2,
+              "plaintext": null,
+              "consumed": false,
+              "inStore": true,
+              "gold": {
+                "base": 1660,
+                "sell": 996
+              }
+            }  
+          
+          },
+          {
+            "id": 2208,
+            "name": "Queen's Wings",
+            "type": 1,
+            "icon": "miya/equip/b5549d33f194e3d0d9712d3b5f807abe.png",
+            "attr_tips": [
+              "+15 Extra Physical ATK",
+              "+1000 HP",
+              "+10% CD Reduction"
+            ],
+            "ex_attr_tips": null,
+            "skill_tips": [
+              "Unique Passive-Demonize:Reduces damage taken by 50% when health is less than 40% and increases your Physical Lifesteal by 30%. Lasts 5 seconds. This effect has a 50 second cooldown. "
+            ],
+            "custom": {
+              "group": "Defense",
+              "stats": {
+                "FlatPhysicalDamageMod":15,
+                "FlatHPPoolMod":1000,
+                "rPercentCooldownMod":0.10
+              },
+              "effect": {
+                "Effect1Amount":0.50,
+                "Effect2Amount":0.40,
+                "Effect3Amount":0.30,
+                "Effect4Amount":5,
+                "Effect5Amount":50
+              },
+              "from": [2201,1005],
+              "into": [],
+              "tags": ["physical defense","physical attack","cooldown reduction","damage reduce"],
+              "maps": null,
+              "tier": 3,
+              "plaintext": null,
+              "consumed": false,
+              "inStore": true,
+              "gold": {
+                "base": 2250,
+                "sell": 1350
+              }
+            }  
+          
+          },
+          {
+            "id": 2209,
+            "name": "Thunder Belt",
+            "type": 2,
+            "icon": "miya/equip/d6d9273c0c1361259d5d195942870799.png",
+            "attr_tips": [
+              "+800 HP",
+              "+30 Mana Regen",
+              "+10% CD Reduction",
+              "+40 Physical Defense"
+            ],
+            "ex_attr_tips": null,
+            "skill_tips": [
+              "Unique Passive-Thunderbolt:After using skills, the next Basic Attack deals extra True Damage equal to 2% of the user's Max HP. The enemy target and their surrounding units all take this damage and are slowed for 1.5s. This effect cools down every 1.5s."
+            ],
+            "custom": {
+              "group": "Defense",
+              "stats": {
+                "FlatHPPoolMod":800,
+                "FlatMPRegenMod":30,
+                "rPercentCooldownMod":0.10,
+                "FlatArmorMod":40
+              },
+              "effect": {
+                "Effect1Amount":0.02,
+                "Effect2Amount":1.5,
+                "Effect3Amount":1.5
+              },
+              "from": [2103,2201,1202],
+              "into": [],
+              "tags": ["hp","mana regen","cooldown reduction","physical defense","true damage","aoe damage"],
+              "maps": null,
+              "tier": 3,
+              "plaintext": null,
+              "consumed": false,
+              "inStore": true,
+              "gold": {
+                "base": 2290,
+                "sell": 1374
+              }
+            }  
+          
+          },
+          {
+            "id": 2210,
+            "name": "Ares Crown",
+            "type": 2,
+            "icon": "",
+            "attr_tips": ["+770 HP", "+10% CD Reduction"],
+            "ex_attr_tips": null,
+            "skill_tips": null,
+            "custom": {
+              "group": "Defense",
+              "stats": {
+                "FlatHPPoolMod":770,
+                "rPercentCooldownMod":0.10
+              },
+              "effect": {},
+              "from": [],
+              "into": [],
+              "tags": [],
+              "maps": null,
+              "tier": 1,
+              "plaintext": null,
+              "consumed": false,
+              "inStore": false,
+              "gold": {
+                "base": 0,
+                "sell": 0
+              }
+            }  
+          
+          },
+          {
+            "id": 2301,
+            "name": "Warrior Boots",
+            "type": 2,
+            "icon": "miya/equip/70c0284a461d3428b71327350fcabd16.png",
+            "attr_tips": ["+22 Physical Defense"],
+            "ex_attr_tips": ["Unique:+40 Movement SPD"],
+            "skill_tips": [
+              "Unique Passive-Valor:Physical defense will go up 5 with each basic attack received, for an increase of up to 25 points. Lasts 3 seconds."
+            ],
+            "custom": {
+              "group": "Movement",
+              "stats": {
+                "FlatArmorMod":22,
+                "FlatMovementSpeedMod":40
+              },
+              "effect": {
+                "Effect1Amount":5,
+                "Effect2Amount":25,
+                "Effect3Amount":3
+              },
+              "from": [1202,1301],
+              "into": [],
+              "tags": ["physical defense","movement"],
+              "maps": null,
+              "tier": 2,
+              "plaintext": null,
+              "consumed": false,
+              "inStore": true,
+              "gold": {
+                "base": 720,
+                "sell": 432
+              }
+            }  
+          
+          },
+          {
+            "id": 2302,
+            "name": "Tough Boots",
+            "type": 2,
+            "icon": "miya/equip/1d2acde0a6287caf3df8f00c4f79d04f.png",
+            "attr_tips": ["+22 Magic Defense"],
+            "ex_attr_tips": ["Unique:+40 Movement SPD"],
+            "skill_tips": [
+              "Unique Passive-Fortitude:Reduces time controlled 30%"
+            ],
+            "custom": {
+              "group": "Movement",
+              "stats": {
+                "FlatMagicArmorMod":22,
+                "FlatMovementSpeedMod":40
+              },
+              "effect": {
+                "Effect1Amount":0.30
+              },
+              "from": [1301,1203],
+              "into": [],
+              "tags": ["magic resistance","movement","anti cc"],
+              "maps": null,
+              "tier": 2,
+              "plaintext": null,
+              "consumed": false,
+              "inStore": true,
+              "gold": {
+                "base": 700,
+                "sell": 420
+              }
+            }  
+          
+          },
+          {
+            "id": 2303,
+            "name": "Magic Shoes",
+            "type": 0,
+            "icon": "miya/equip/56a89fa67abd66e775284317009181a5.png",
+            "attr_tips": ["+10% CD Reduction"],
+            "ex_attr_tips": ["Unique:+40 Movement SPD"],
+            "skill_tips": null,
+            "custom": {
+              "group": "Movement",
+              "stats": {
+                "rPercentCooldownMod":0.10,
+                "FlatMovementSpeedMod":40
+              },
+              "effect": {},
+              "from": [1301],
+              "into": [],
+              "tags": ["movement","cooldown reduction"],
+              "maps": null,
+              "tier": 2,
+              "plaintext": null,
+              "consumed": false,
+              "inStore": true,
+              "gold": {
+                "base": 710,
+                "sell": 426
+              }
+            }  
+          
+          },
+          {
+            "id": 2304,
+            "name": "Arcane Boots",
+            "type": 1,
+            "icon": "miya/equip/86f7b58c564ec39db421cafe57ded041.png",
+            "attr_tips": ["+15 Magic PEN"],
+            "ex_attr_tips": ["Unique:+40 Movement SPD"],
+            "skill_tips": null,
+            "custom": {
+              "group": "Movement",
+              "stats": {
+                "rFlatMagicArmorPenetrationMod":15,
+                "FlatMovementSpeedMod":40
+              },
+              "effect": {},
+              "from": [1301],
+              "into": [],
+              "tags": ["magic penetration","movement"],
+              "maps": null,
+              "tier": 2,
+              "plaintext": null,
+              "consumed": false,
+              "inStore": true,
+              "gold": {
+                "base": 690,
+                "sell": 414
+              }
+            }  
+          
+          },
+          {
+            "id": 2305,
+            "name": "Swift Boots",
+            "type": 2,
+            "icon": "miya/equip/8e866047d53929996a2262cb1b64dc6f.png",
+            "attr_tips": ["+15% Attack Speed"],
+            "ex_attr_tips": ["Unique:+40 Movement SPD"],
+            "skill_tips": null,
+            "custom": {
+              "group": "Movement",
+              "stats": {
+                "PercentAttackSpeedMod":0.15,
+                "FlatMovementSpeedMod":40
+              },
+              "effect": {},
+              "from": [1301,1002],
+              "into": [],
+              "tags": ["attack speed","movement"],
+              "maps": null,
+              "tier": 2,
+              "plaintext": null,
+              "consumed": false,
+              "inStore": true,
+              "gold": {
+                "base": 710,
+                "sell": 426
+              }
+            }  
+          
+          },
+          {
+            "id": 2306,
+            "name": "Rapid Boots",
+            "type": 0,
+            "icon": "miya/equip/34f6846d39c1ac96f16614f7e0f283ff.png",
+            "attr_tips": null,
+            "ex_attr_tips": ["Unique:+80 Movement SPD"],
+            "skill_tips": [
+              "Unique Passive-Side Effect:Dealing or taking damage slows hero's movement speed by 40 points. Lasts 5 seconds."
+            ],
+            "custom": {
+              "group": "Movement",
+              "stats": {
+                "FlatMovementSpeedMod":80
+              },
+              "effect": {
+                "Effect1Amount":40,
+                "Effect2Amount":5
+              },
+              "from": [1301],
+              "into": [],
+              "tags": ["movement boost","movement"],
+              "maps": null,
+              "tier": 2,
+              "plaintext": null,
+              "consumed": false,
+              "inStore": true,
+              "gold": {
+                "base": 850,
+                "sell": 510
+              }
+            }  
+          
+          },
+          {
+            "id": 2308,
+            "name": "Demon Shoes",
+            "type": 2,
+            "icon": "miya/equip/9c49a100145bb44f4d4bff0b41fc30da.png",
+            "attr_tips": ["+30 Mana Regen"],
+            "ex_attr_tips": ["Unique:+40 Movement SPD"],
+            "skill_tips": [
+              "Unique Passive-Mysticism:Eliminations of enemy heroes and assists regenerates hero’s mana by 10%, while eliminating minions regenerates 4% of the hero’s mana. "
+            ],
+            "custom": {
+              "group": "Movement",
+              "stats": {
+                "FlatMPRegenMod":30
+              },
+              "effect": {
+                "Effect1Amount":0.10,
+                "Effect2Amount":0.05
+              },
+              "from": [1301,1103,1103],
+              "into": [],
+              "tags": ["mana regen"],
+              "maps": null,
+              "tier": 2,
+              "plaintext": null,
+              "consumed": false,
+              "inStore": true,
+              "gold": {
+                "base": 720,
+                "sell": 432
+              }
+            }  
+          
+          },
+          {
+            "id": 2401,
+            "name": "Curse Sword",
+            "type": 4,
+            "icon": "miya/equip/ff995907b40088a9a50c6b6746fd7b61.png",
+            "attr_tips": null,
+            "ex_attr_tips": ["Unique:+35% Damage to Monsters"],
+            "skill_tips": [
+              "Unique Passive-Greed:Gain extra 25% EXP when jungling. After killing Creeps, recovers HP by 4% and Mana by 10%.",
+              "Unique Passive-Success:Makes the Battle Spell 'Retribution' applicable to heroes, reducing the target's movement speed by 70% (effect decays over 3s) and reducing target's Magic Defense. Buying other advanced jungling equipment will disable this effect."
+            ],
+            "custom": {
+              "group": "Jungle",
+              "stats": {
+                "PercentExtraMonsterDamageMod":0.35
+              },
+              "effect": {
+                "Effect1Amount":0.25,
+                "Effect2Amount":0.04,
+                "Effect3Amount":0.10,
+                "Effect4Amount":0.70,
+                "Effect5Amount":3
+              },
+              "from": [3009],
+              "into": [3401],
+              "tags": ["bonus damage to monster","exp buff","jungling","hp regen","mana regen","magic penetration"],
+              "maps": null,
+              "tier": 2,
+              "plaintext": null,
+              "consumed": false,
+              "inStore": true,
+              "gold": {
+                "base": 760,
+                "sell": 456
+              }
+            }  
+          
+          },
+          {
+            "id": 2402,
+            "name": "Pillager Axe",
+            "type": 4,
+            "icon": "miya/equip/f81c7b350c955f3a4241f08857cc6159.png",
+            "attr_tips": null,
+            "ex_attr_tips": ["Unique:+35% Damage to Monsters"],
+            "skill_tips": [
+              "Unique Passive-Greed:Gain extra 25% EXP when jungling. After killing Creeps, recovers HP by 4% and Mana by 10%.",
+              "Unique Passive-Success:Makes the Battle Spell 'Retribution' applicable to heroes, reducing the target's movement speed by 70% (effect decays over 3s) and for a short period of time grants a shield based on Max HP. Buying other advanced jungling equipment will disable this effect."
+            ],
+            "custom": {
+              "group": "Jungle",
+              "stats": {
+                "PercentExtraMonsterDamageMod":0.35
+              },
+              "effect": {
+                "Effect1Amount":0.25,
+                "Effect2Amount":0.04,
+                "Effect3Amount":0.10,
+                "Effect4Amount":0.70,
+                "Effect5Amount":3
+              },
+              "from": [3009],
+              "into": [3402],
+              "tags": ["bonus damage to monster","exp buff","jungling","hp regen","mana regen","magic penetration"],
+              "maps": null,
+              "tier": 2,
+              "plaintext": null,
+              "consumed": false,
+              "inStore": true,
+              "gold": {
+                "base": 770,
+                "sell": 462
+              }
+            }  
+          },
+          {
+            "id": 2403,
+            "name": "Nimble Blade",
+            "type": 4,
+            "icon": "miya/equip/eb26473de952923a3961c3b325074ac7.png",
+            "attr_tips": null,
+            "ex_attr_tips": ["Unique:+35% Damage to Monsters"],
+            "skill_tips": [
+              "Unique Passive-Greed:Gain extra 25% EXP when jungling. After killing Creeps, recovers HP by 4% and Mana by 10%.",
+              "Unique Passive-Success:Makes the Battle Spell 'Retribution' applicable to heroes, reducing the target's movement speed by 70% and dealing a small amount of True Damage to the target within 3 seconds. Buying other advanced jungling equipment will disable this effect."
+            ],
+            "custom": {
+              "group": "Jungle",
+              "stats": {
+                "PercentExtraMonsterDamageMod":0.35
+              },
+              "effect": {
+                "Effect1Amount":0.25,
+                "Effect2Amount":0.04,
+                "Effect3Amount":0.10,
+                "Effect4Amount":0.70,
+                "Effect5Amount":3
+              },
+              "from": [3009],
+              "into": [3403],
+              "tags": ["true damage","bonus damage to monster","exp buff","jungling","hp regen","mana regen","magic penetration"],
+              "maps": null,
+              "tier": 2,
+              "plaintext": null,
+              "consumed": false,
+              "inStore": true,
+              "gold": {
+                "base": 750,
+                "sell": 450
+              }
+            }  
+          },
+          {
+            "id": 2501,
+            "name": "Iron Mask",
+            "type": 1,
+            "icon": "miya/equip/2eca4eb13cc3af09ea18b3c6b5c2c37d.png",
+            "attr_tips": ["+400 HP", "+5% CD Reduction"],
+            "ex_attr_tips": ["Unique:+25 Movement SPD"],
+            "skill_tips": [
+              "Unique Passive-Devotion:Obtain 2 EXP and Gold every 4s. In the first 12 minutes of the match, this equipment makes you gain nothing from Minions or Creeps if there are teammates without Roaming Equipment, or those with but have higher EXP or Gold than yours around you. They will share the whole EXP or Gold.",
+              "Unique Passive-Thriving:Gains extra 25% Gold and EXP with Assists. When your Gold ranks the 5th in your team, increase Gold you gain to 20 per 4s. When your EXP ranks the 5th in your team, increase EXP you gain to 35 per 4s. "
+            ],
+            "custom": {
+              "group": "Roam",
+              "stats": {
+                "FlatHPPoolMod":400,
+                "rPercentCooldownMod":0.05,
+                "FlatMovementSpeedMod":25
+              },
+              "effect": {
+                "Effect1Amount":2,
+                "Effect2Amount":4,
+                "Effect3Amount":12,
+                "Effect4Amount":0.25,
+                "Effect5Amount":5,
+                "Effect6Amount":20,
+                "Effect7Amount":4,
+                "Effect8Amount":5,
+                "Effect9Amount":35,
+                "Effect10Amount":4
+              },
+              "from": [1501],
+              "into": [3501,3502,3503],
+              "tags": ["hp","cooldown reduction","exp buff","gold buff","ganking"],
+              "maps": null,
+              "tier": 2,
+              "plaintext": null,
+              "consumed": false,
+              "inStore": true,
+              "gold": {
+                "base": 850,
+                "sell": 510
+              }
+            }  
+          },
+          {
+            "id": 3001,
+            "name": "Malefic Roar",
+            "type": 1,
+            "icon": "miya/equip/bcdb2ff99692f6584aadb344d5151014.png",
+            "attr_tips": ["+60 Extra Physical ATK"],
+            "ex_attr_tips": ["Unique:+40% Physical PEN"],
+            "skill_tips": [
+              "Unique Passive-Armor Buster:Basic Attack will ignore 20% of a Turret's Defense."
+            ],
+            "custom": {
+              "group": "Attack",
+              "stats": {
+                "FlatPhysicalDamageMod":60,
+                "rPercentArmorPenetrationMod":0.40
+              },
+              "effect": {
+                "Effect1Amount":0.20
+              },
+              "from": [2001],
+              "into": [],
+              "tags": ["armor penetration","turret penetration","physical attack"],
+              "maps": null,
+              "tier": 3,
+              "plaintext": null,
+              "consumed": false,
+              "inStore": true,
+              "gold": {
+                "base": 2060,
+                "sell": 1236
+              }
+            }  
+          },
+          {
+            "id": 3002,
+            "name": "Haas's Claws",
+            "type": 2,
+            "icon": "miya/equip/acc3d743bbec2d0e4601429ab9d1af4d.png",
+            "attr_tips": ["+70 Extra Physical ATK"],
+            "ex_attr_tips": ["Unique:+20% Physical Lifesteal"],
+            "skill_tips": [
+              "Unique Passive-Insanity:When HP drops below 40%, the hero will receive extra 10% Physical Lifesteal."
+            ],
+            "custom": {
+              "group": "Attack",
+              "stats": {
+                "FlatPhysicalDamageMod":70,
+                "PercentLifeStealMod":0.20
+              },
+              "effect": {
+                "Effect1Amount":0.40,
+                "Effect2Amount":0.10
+              },
+              "from": [2001,1004],
+              "into": [],
+              "tags": ["physical attack","physical lifesteal"],
+              "maps": null,
+              "tier": 3,
+              "plaintext": null,
+              "consumed": false,
+              "inStore": true,
+              "gold": {
+                "base": 1810,
+                "sell": 1086
+              }
+            }  
+          },
+          {
+            "id": 3003,
+            "name": "Berserker's Fury",
+            "type": 0,
+            "icon": "miya/equip/6b5dcd8289ddf77e64c546cb85ba74a9.png",
+            "attr_tips": ["+65 Extra Physical ATK", "+25% Crit Chance"],
+            "ex_attr_tips": ["Unique:+40% Crit Damage"],
+            "skill_tips": [
+              "Unique Passive-Doom:Crit hit will increase the hero's Physical Attack by 5% for 2s."
+            ],
+            "custom": {
+              "group": "Attack",
+              "stats": {
+                 "FlatPhysicalDamageMod":65,
+                 "PercentCritChanceMod":0.25,
+                 "PercentCritDamageMod":0.40
+              },
+              "effect": {
+                "Effect1Amount":0.05,
+                "Effect2Amount":2
+              },
+              "from": [2001,1003,1003],
+              "into": [],
+              "tags": ["crit chance","crit damage","physical attack"],
+              "maps": null,
+              "tier": 3,
+              "plaintext": null,
+              "consumed": false,
+              "inStore": true,
+              "gold": {
+                "base": 2350,
+                "sell": 1410
+              }
+            }  
+          },
+          {
+            "id": 3004,
+            "name": "Endless Battle",
+            "type": 1,
+            "icon": "miya/equip/37e258e33b9cb877987b84041339fa8c.png",
+            "attr_tips": [
+              "+65 Extra Physical ATK",
+              "+25 Mana Regen",
+              "+250 HP",
+              "+10% CD Reduction",
+              "+5% Movement SPD",
+              "+15% Physical Lifesteal"
+            ],
+            "ex_attr_tips": null,
+            "skill_tips": [
+              "Unique Passive-Divine Justice:After using a skill, the next Basic Attack will deal extra 85% of Physical Attack as True Damage. This effect has a CD of 1.5s.",
+              "Unique Passive-Chase Fate:When Divine Justice's effect is triggered, it will increase the hero's movement speed 10%."
+            ],
+            "custom": {
+              "group": "Attack",
+              "stats": {
+                "FlatPhysicalDamageMod":65,
+                "FlatMPRegenMod":25,
+                "FlatHPPoolMod":250,
+                "rPercentCooldownMod":0.10,
+                "PercentMovementSpeedMod":0.05,
+                "PercentLifeStealMod":0.15
+              },
+              "effect": {
+                "Effect1Amount":0.85,
+                "Effect2Amount":1.5,
+                "Effect3Amount":0.10
+              },
+              "from": [2002,1004,2103],
+              "into": [],
+              "tags": ["true damage","movement boost","physical attack","mana regen","hp","cooldown reduction","physical lifesteal"],
+              "maps": null,
+              "tier": 3,
+              "plaintext": null,
+              "consumed": false,
+              "inStore": true,
+              "gold": {
+                "base": 2470,
+                "sell": 1482
+              }
+            }  
+          },
+          {
+            "id": 3005,
+            "name": "Windtalker",
+            "type": 2,
+            "icon": "miya/equip/ddbefb10aab48523d695182ce36c79a3.png",
+            "attr_tips": [
+              "+40% Attack Speed",
+              "+20 Movement SPD",
+              "+10% Crit Chance"
+            ],
+            "ex_attr_tips": null,
+            "skill_tips": [
+              "Unique Passive-Typhoon:Every 5s, Basic Attack hits 3 enemy units and deals 150 points of [C3Magic Damage]. This effect's CD drops as your Crit Chance rises, while damage rises as Attack Speed rises. (Deals 100% more Damage to Minions.)",
+              "Unique Passive-Activate:Each time Typhoon is cast, one's movement speed will be increased 5% for a short time."
+            ],
+            "custom": {
+              "group": "Attack",
+              "stats": {
+                "PercentAttackSpeedMod":0.40,
+                "FlatMovementSpeedMod":0.20,
+                "FlatCritChanceMod":0.10
+              },
+              "effect": {
+                "Effect1Amount":5,
+                "Effect2Amount":3,
+                "Effect3Amount":150,
+                "Effect4Amount":1,
+                "Effect5Amount":0.05
+              },
+              "from": [2003,1002],
+              "into": [],
+              "tags": ["attack speed","movement","crit chance","magic damage","attack speed buff","movement boost"],
+              "maps": null,
+              "tier": 3,
+              "plaintext": null,
+              "consumed": false,
+              "inStore": true,
+              "gold": {
+                "base": 1870,
+                "sell": 1122
+              }
+            }  
+          },
+          {
+            "id": 3006,
+            "name": "Scarlet Phantom",
+            "type": 0,
+            "icon": "miya/equip/67e037263b54df8b1d8b795dc09827d2.png",
+            "attr_tips": [
+              "+30 Extra Physical ATK",
+              "+20% Attack Speed",
+              "+25% Crit Chance"
+            ],
+            "ex_attr_tips": null,
+            "skill_tips": [
+              "Unique Passive-Frenzy:Crit hits increase the hero's ATK Speed by 30% and Crit Chance by 5%. Lasts 2s."
+            ],
+            "custom": {
+              "group": "Attack",
+              "stats": {
+                "FlatPhysicalDamageMod":30,
+                "PercentAttackSpeedMod":0.20,
+                "PercentCritChanceMod":0.25
+              },
+              "effect": {
+                "Effect1Amount":0.30,
+                "Effect2Amount":0.05,
+                "Effect3Amount":2
+              },
+              "from": [2003,1003],
+              "into": [],
+              "tags": ["physical attack","attack speed","crit chance"],
+              "maps": null,
+              "tier": 3,
+              "plaintext": null,
+              "consumed": false,
+              "inStore": true,
+              "gold": {
+                "base": 2020,
+                "sell": 1212
+              }
+            }  
+          },
+          {
+            "id": 3007,
+            "name": "Blade of the Heptaseas",
+            "type": 1,
+            "icon": "miya/equip/c2ecf65a958c298b71a37684cc7e2f89.png",
+            "attr_tips": ["+65 Extra Physical ATK", "+250 HP"],
+            "ex_attr_tips": ["Unique:+15 Physical PEN"],
+            "skill_tips": [
+              "Unique Passive-Ambush:Next Basic Attack will deal extra Physical Damage equal to 100% of Physical Attack if no damage taken or dealt within 5s."
+            ],
+            "custom": {
+              "group": "Attack",
+              "stats": {
+                "FlatPhysicalDamageMod":65,
+                "FlatHPPoolMod":250,
+                "rFlatArmorPenetrationMod":15
+              },
+              "effect": {
+                "Effect1Amount":1,
+                "Effect2Amount":5
+              },
+              "from": [2004,1001,1201],
+              "into": [],
+              "tags": ["physical attack","hp","armor penetration"],
+              "maps": null,
+              "tier": 3,
+              "plaintext": null,
+              "consumed": false,
+              "inStore": true,
+              "gold": {
+                "base": 1950,
+                "sell": 1170
+              }
+            }  
+          },
+          {
+            "id": 3008,
+            "name": "Blade of Despair",
+            "type": 2,
+            "icon": "miya/equip/229ff21ee9d80886cc2340a38b386dbb.png",
+            "attr_tips": ["+170 Extra Physical ATK", "+5% Movement SPD"],
+            "ex_attr_tips": null,
+            "skill_tips": [
+              "Unique Passive-Despair:Attacking enemy units that have HP below 50% will increase hero's Physical Attack by 25%. Lasts 2s. (Takes affect before damage is dealt)"
+            ],
+            "custom": {
+              "group": "",
+              "stats": {
+                "FlatPhysicalDamageMod":170,
+                "PercentMovementSpeedMod":0.05
+              },
+              "effect": {
+                "Effect1Amount":0.50,
+                "Effect2Amount":0.25,
+                "Effect3Amount":2
+              },
+              "from": [2001,2001],
+              "into": [],
+              "tags": ["physical attack","movement boost"],
+              "maps": null,
+              "tier": 3,
+              "plaintext": null,
+              "consumed": false,
+              "inStore": true,
+              "gold": {
+                "base": 3010,
+                "sell": 1806
+              }
+            }  
+          },
+          {
+            "id": 3009,
+            "name": "Hunter Strike",
+            "type": 2,
+            "icon": "miya/equip/adfe11ae2c9839bedc4386c46c6e59ad.png",
+            "attr_tips": ["+80 Extra Physical ATK", "+10% CD Reduction"],
+            "ex_attr_tips": ["Unique:+15 Physical PEN"],
+            "skill_tips": [
+              "Unique Passive-Retribution:Deals damage to an enemy hero or Creep for 5 times in a row and improves Movement Speed by 30% for 3s. This effect has a CD of 15s."
+            ],
+            "custom": {
+              "group": "Attack",
+              "stats": {
+                "FlatPhysicalDamageMod":80,
+                "rPercentCooldownMod":0.10
+              },
+              "effect": {
+                "Effect1Amount":5,
+                "Effect2Amount":0.30,
+                "Effect3Amount":3,
+                "Effect4Amount":15
+              },
+              "from": [2004,1005,1001],
+              "into": [],
+              "tags": ["physical attack","cooldown reduction","physical penetration"],
+              "maps": null,
+              "tier": 3,
+              "plaintext": null,
+              "consumed": false,
+              "inStore": true,
+              "gold": {
+                "base": 2010,
+                "sell": 1206
+              }
+            }  
+          },
+          {
+            "id": 3010,
+            "name": "Bloodlust Axe",
+            "type": 2,
+            "icon": "miya/equip/df837850f51e39781f86ccc964b47ba9.png",
+            "attr_tips": ["+70 Extra Physical ATK", "+10% CD Reduction"],
+            "ex_attr_tips": ["Unique:+20% Spell Vamp"],
+            "skill_tips": null,
+            "custom": {
+              "group": "Attack",
+              "stats": {
+                "FlatPhysicalDamageMod":70,
+                "rPercentCooldownMod":0.10,
+                "PercentSpellVampMod":0.20
+              },
+              "effect": {},
+              "from": [1001,1005],
+              "into": [],
+              "tags": ["spell vamp","physical attack","cooldown reduction"],
+              "maps": null,
+              "tier": 2,
+              "plaintext": null,
+              "consumed": false,
+              "inStore": true,
+              "gold": {
+                "base": 1970,
+                "sell": 1182
+              }
+            }  
+          },
+          {
+            "id": 3011,
+            "name": "Goldshine Hammer",
+            "type": 2,
+            "icon": "",
+            "attr_tips": ["+70 Extra Physical ATK"],
+            "ex_attr_tips": ["Unique:+20 Physical PEN"],
+            "skill_tips": [
+              "Unique Passive-Ambush:After leaving the combat, the next basic attack deals extra 120% attack damage to an enemy hero. The damage will be taken equally by the target and nearby enemies."
+            ],
+            "custom": {
+              "group": "Attack",
+              "stats": {
+                "FlatPhysicalDamageMod":70,
+                "rFlatArmorPenetrationMod":20
+              },
+              "effect": {
+                "Effect1Amount":1.2
+              },
+              "from": [],
+              "into": [],
+              "tags": ["physical attack","aoe damage","armor penetration"],
+              "maps": null,
+              "tier": 3,
+              "plaintext": null,
+              "consumed": false,
+              "inStore": false,
+              "gold": {
+                "base": 0,
+                "sell": 0
+              }
+            }  
+          },
+          {
+            "id": 3012,
+            "name": "Rose Gold Meteor",
+            "type": 2,
+            "icon": "miya/equip/2798805838d4fefe4dfcefbb896ab7cd.png",
+            "attr_tips": [
+              "+60 Extra Physical ATK",
+              "+30 Magic Defense",
+              "+5% Physical Lifesteal"
+            ],
+            "ex_attr_tips": null,
+            "skill_tips": [
+              "Unique Passive-Lifeline:Once the hero's HP falls below 30% they generate a shield that absorbs 510~1350 points of damage (increase with level) that last for 3 seconds.CD is 40 seconds"
+            ],
+            "custom": {
+              "group": "Attack",
+              "stats": {
+                "FlatPhysicalDamageMod":60,
+                "FlatMagicArmorMod":30,
+                "PercentLifeStealMod":0.05
+              },
+              "effect": {
+                "Effect1Amount":0.30,
+                "Effect2Amount":510,
+                "Effect3Amount":1350,
+                "Effect4Amount":3,
+                "Effect5Amount":40
+              },
+              "from": [2005,1001],
+              "into": [],
+              "tags": ["shield buff","physical attack","magic resistance","physical lifesteal"],
+              "maps": null,
+              "tier": 3,
+              "plaintext": null,
+              "consumed": false,
+              "inStore": true,
+              "gold": {
+                "base": 2120,
+                "sell": 1272
+              }
+            }  
+          },
+          {
+            "id": 3013,
+            "name": "Sea Halberd",
+            "type": 0,
+            "icon": "miya/equip/c322813c4e2ab94d73187d162e21b8e2.png",
+            "attr_tips": ["+80 Extra Physical ATK", "+25% Attack Speed"],
+            "ex_attr_tips": null,
+            "skill_tips": [
+              "Unique Passive-Life Drain:Basic Attack reduces HP Regen Effect by 50% for 3s."
+            ],
+            "custom": {
+              "group": "Attack",
+              "stats": {
+                "FlatPhysicalDamageMod":80,
+                "PercentAttackSpeedMod":0.25
+              },
+              "effect": {
+                "Effect1Amount":0.50,
+                "Effect2Amount":3
+              },
+              "from": [2007,2001],
+              "into": [],
+              "tags": ["physical attack","attack speed","debuff"],
+              "maps": null,
+              "tier": 3,
+              "plaintext": null,
+              "consumed": false,
+              "inStore": true,
+              "gold": {
+                "base": 2350,
+                "sell": 1410
+              }
+            }  
+          },
+          {
+            "id": 3101,
+            "name": "Divine Glaive",
+            "type": 2,
+            "icon": "miya/equip/de250c41b14e2766e17fd58ba1a7e412.png",
+            "attr_tips": ["+65 Magic Power"],
+            "ex_attr_tips": ["Unique:+40% Magic PEN"],
+            "skill_tips": [
+              "Unique Passive-Spellbreaker:When HP is higher than 70%, the unique bonus effect is increased by 30%"
+            ],
+            "custom": {
+              "group": "Magic",
+              "stats": {
+                "FlatMagicDamageMod":65,
+                "rPercentMagicPenetrationMod":0.40
+              },
+              "effect": {
+                "Effect1Amount":0.70,
+                "Effect2Amount":0.30
+              },
+              "from": [2101],
+              "into": [],
+              "tags": ["magic armor penetration","magic damage","buff"],
+              "maps": null,
+              "tier": 3,
+              "plaintext": null,
+              "consumed": false,
+              "inStore": true,
+              "gold": {
+                "base": 1970,
+                "sell": 1182
+              }
+            }  
+          },
+          {
+            "id": 3102,
+            "name": "Holy Crystal",
+            "type": 0,
+            "icon": "miya/equip/ae7652050e9f5c20521bb978b4d64686.png",
+            "attr_tips": ["+100 Magic Power"],
+            "ex_attr_tips": null,
+            "skill_tips": [
+              "Unique Passive-Mystery:Increases Magic Attack by 21%~35% (Scales with level)."
+            ],
+            "custom": {
+              "group": "Magic",
+              "stats": {
+                "FlatMagicDamageMod":100
+              },
+              "effect": {
+                "Effect1Amount":0.21,
+                "Effect2Amount":0.35
+              },
+              "from": [2101,2101],
+              "into": [],
+              "tags": ["magic damage buff","magic damage"],
+              "maps": null,
+              "tier": 3,
+              "plaintext": null,
+              "consumed": false,
+              "inStore": true,
+              "gold": {
+                "base": 2180,
+                "sell": 1308
+              }
+            }  
+          },
+          {
+            "id": 3103,
+            "name": "Concentrated Energy",
+            "type": 1,
+            "icon": "miya/equip/3bdd946dfc78c7704e64cb5162b3291d.png",
+            "attr_tips": ["+70 Magic Power", "+700 HP"],
+            "ex_attr_tips": ["Unique:+25% Magic Lifesteal"],
+            "skill_tips": [
+              "Unique Passive-Recharge:Kill enemy hero to recover HP by 10%."
+            ],
+            "custom": {
+              "group": "Magic",
+              "stats": {
+                  "FlatMagicDamageMod":70,
+                  "FlatHPPoolMod":700
+              },
+              "effect": {
+                "Effect1Amount":0.10
+              },
+              "from": [2101,1105,1201],
+              "into": [],
+              "tags": ["hp regen","magic damage","hp"],
+              "maps": null,
+              "tier": 3,
+              "plaintext": null,
+              "consumed": false,
+              "inStore": true,
+              "gold": {
+                "base": 2020,
+                "sell": 1212
+              }
+            }  
+          },
+          {
+            "id": 3104,
+            "name": "Ice Queen Wand",
+            "type": 2,
+            "icon": "miya/equip/e3648faf0ba6710131d50ea3c5c67e09.png",
+            "attr_tips": [
+              "+75 Magic Power",
+              "+10% Magic Lifesteal",
+              "+150 Mana",
+              "+7% Movement SPD"
+            ],
+            "ex_attr_tips": null,
+            "skill_tips": [
+              "Unique Passive-Ice Bound:Skills that deal damage to an enemy hero will slow them by 15%. This effect lasts 3s. Stacks up to 2 times."
+            ],
+            "custom": {
+              "group": "Magic",
+              "stats": {
+                "FlatMagicDamageMod":75,
+                "PercentMagicLifeStealMod":0.10,
+                "FlatMPPoolMod":150,
+                "PercentMovementSpeedMod":0.7
+              },
+              "effect": {
+                "Effect1Amount":0.15,
+                "Effect2Amount":2
+              },
+              "from": [2101,1105],
+              "into": [],
+              "tags": [],
+              "maps": null,
+              "tier": 3,
+              "plaintext": null,
+              "consumed": false,
+              "inStore": true,
+              "gold": {
+                "base": 2240,
+                "sell": 1344
+              }
+            }  
+          },
+          {
+            "id": 3105,
+            "name": "Glowing Wand",
+            "type": 0,
+            "icon": "miya/equip/e05a2a15fed0bcaa573d71b2f3d18fff.png",
+            "attr_tips": ["+75 Magic Power", "+400 HP", "+5% Movement SPD"],
+            "ex_attr_tips": null,
+            "skill_tips": [
+              "Unique Passive-Scorch:Skill Damage will burn targets for 3s, dealing 1%/1.75%/2.5% of the target's Max HP as Magic Damage per second. (10 damage minimum)."
+            ],
+            "custom": {
+              "group": "Magic",
+              "stats": {
+                "FlatMagicDamageMod":75,
+                "FlatHPPoolMod":400,
+                "PercentMovementSpeedMod":0.05
+              },
+              "effect": {
+                "Effect1Amount":3,
+                "Effect2Amount":0.01,
+                "Effect3Amount":0.0175,
+                "Effect4Amount":0.025,
+                "Effect5Amount":10
+              },
+              "from": [2104,1101,1201],
+              "into": [],
+              "tags": ["dot","magic damage","hp","movement boost"],
+              "maps": null,
+              "tier": 3,
+              "plaintext": null,
+              "consumed": false,
+              "inStore": true,
+              "gold": {
+                "base": 2200,
+                "sell": 1320
+              }
+            }  
+          },
+          {
+            "id": 3106,
+            "name": "Calamity Reaper",
+            "type": 1,
+            "icon": "miya/equip/aec769318af46ac14965e092b6727fcb.png",
+            "attr_tips": [
+              "+70 Magic Power",
+              "+100 Mana",
+              "+30 Mana Regen",
+              "+10% CD Reduction"
+            ],
+            "ex_attr_tips": null,
+            "skill_tips": [
+              "Unique Passive-Calamity:After using a skill, the next Basic Attack deals extra True Damage that equals to 120% Magic Attack. CD: 1.5s. Briefly raises Movement Speed by 10%. "
+            ],
+            "custom": {
+              "group": "Magic",
+              "stats": {
+                "FlatMagicDamageMod":70,
+                "FlatMPPoolMod":100,
+                "FlatMPRegenMod":30,
+                "rPercentCooldownMod":0.10
+              },
+              "effect": {
+                "Effect1Amount":1.2,
+                "Effect2Amount":1.5,
+                "Effect3Amount":0.10
+              },
+              "from": [2103,2101],
+              "into": [],
+              "tags": ["magic damage","mana","mana regen","cooldown reduction","true damage","movement boost"],
+              "maps": null,
+              "tier": 3,
+              "plaintext": null,
+              "consumed": false,
+              "inStore": true,
+              "gold": {
+                "base": 1950,
+                "sell": 1170
+              }
+            }  
+          },
+          {
+            "id": 3107,
+            "name": "Clock of Destiny",
+            "type": 2,
+            "icon": "miya/equip/9afe8b6c380de0ae9bcc81efaa7f1b4c.png",
+            "attr_tips": ["+60 Magic Power", "+615 HP", "+600 Mana"],
+            "ex_attr_tips": null,
+            "skill_tips": [
+              "Unique Passive-Time:Adds 30 HP and 5 magic attack every 30 seconds. Up to 10 times.",
+              "Unique Passive-Reincarnate:If Time reaches Max, then the hero will receive extra 5% Magic Attack and 300 Mana."
+            ],
+            "custom": {
+              "group": "Magic",
+              "stats": {
+                "FlatMagicDamageMod":60,
+                "FlatHPPoolMod":615,
+                "FlatMPPoolMod":600
+              },
+              "effect": {
+                "Effect1Amount":30,
+                "Effect2Amount":5,
+                "Effect3Amount":30,
+                "Effect4Amount":10,
+                "Effect5Amount":0.05,
+                "Effect6Amount":300
+              },
+              "from": [2101,2105],
+              "into": [],
+              "tags": ["mana","magic damage","magic damage buff","hp"],
+              "maps": null,
+              "tier": 3,
+              "plaintext": null,
+              "consumed": false,
+              "inStore": true,
+              "gold": {
+                "base": 1950,
+                "sell": 1170
+              }
+            }  
+          },
+          {
+            "id": 3108,
+            "name": "Blood Wings",
+            "type": 2,
+            "icon": "miya/equip/23679d5076d303afd1083eeca35586bf.png",
+            "attr_tips": ["+150 Magic Power", "+500 HP"],
+            "ex_attr_tips": null,
+            "skill_tips": [
+              "Unique Passive-Nirvana:Adds 1.5 HP for every 1 pt of magic power added."
+            ],
+            "custom": {
+              "group": "Magic",
+              "stats": {
+                "FlatMagicDamageMod":150,
+                "FlatHPPoolMod":500
+              },
+              "effect": {
+                "Effect1Amount":1.5,
+                "Effect2Amount":1
+              },
+              "from": [2101,2101],
+              "into": [],
+              "tags": ["magic damage","hp"],
+              "maps": null,
+              "tier": 3,
+              "plaintext": null,
+              "consumed": false,
+              "inStore": true,
+              "gold": {
+                "base": 3000,
+                "sell": 1800
+              }
+            }  
+          },
+          {
+            "id": 3109,
+            "name": "Fleeting Time",
+            "type": 2,
+            "icon": "miya/equip/fb16ae1be62780df580f011cc46d2f08.png",
+            "attr_tips": ["+70 Magic Power", "+15% CD Reduction"],
+            "ex_attr_tips": null,
+            "skill_tips": [
+              "Unique Passive-Timestream:After an elimination or an assist, the CD of the hero’s ultimate is immediately reduced by 30%.  "
+            ],
+            "custom": {
+              "group": "Magic",
+              "stats": {
+                "FlatMagicDamageMod":70,
+                "rPercentCooldownMod":0.15
+              },
+              "effect": {
+                "Effect1Amount":0.30
+              },
+              "from": [2101,1104],
+              "into": [],
+              "tags": ["magic damage","cooldown reduction","ultimate cooldown reduction"],
+              "maps": null,
+              "tier": 3,
+              "plaintext": null,
+              "consumed": false,
+              "inStore": true,
+              "gold": {
+                "base": 2050,
+                "sell": 1230
+              }
+            }  
+          },
+          {
+            "id": 3110,
+            "name": "Lightning Truncheon",
+            "type": 2,
+            "icon": "miya/equip/4299ceb136a41f62d1cdb6751f1275f1.png",
+            "attr_tips": ["+75 Magic Power", "+300 Mana", "+10% CD Reduction"],
+            "ex_attr_tips": null,
+            "skill_tips": [
+              "Unique Passive-Resonate:Every 6s, next Magic Skill deals extra Magic Damage to up to 3 enemies that scales with hero's Max Mana."
+            ],
+            "custom": {
+              "group": "Magic",
+              "stats": {
+                "FlatMagicDamageMod":75,
+                "FlatMPPoolMod":300,
+                "rPercentCooldownMod":0.10
+              },
+              "effect": {
+                "Effect1Amount":6,
+                "Effect2Amount":3
+              },
+              "from": [2101,1102,1104],
+              "into": [],
+              "tags": ["magic damage","mana","cooldown reduction","aoe","damage buff"],
+              "maps": null,
+              "tier": 3,
+              "plaintext": null,
+              "consumed": false,
+              "inStore": true,
+              "gold": {
+                "base": 2250,
+                "sell": 1350
+              }
+            }  
+          },
+          {
+            "id": 3111,
+            "name": "Genius Wand",
+            "type": 2,
+            "icon": "miya/equip/b26b2e1199b8734759b0a5987527ab10.png",
+            "attr_tips": ["+75 Magic Power", "+5% Movement SPD"],
+            "ex_attr_tips": ["Unique:+15 Magic PEN"],
+            "skill_tips": [
+              "Unique Passive-Magic:Dealing damage to enemy heroes will reduce 3~10 points of their Magic Defense (Scales with level). This effect lasts 2s. Stacks up to 3 times."
+            ],
+            "custom": {
+              "group": "Magic",
+              "stats": {
+                "rFlatMagicArmorPenetrationMod":15
+              },
+              "effect": {
+                "Effect1Amount":3,
+                "Effect2Amount":10,
+                "Effect3Amount":2,
+                "Effect4Amount":3
+
+              },
+              "from": [2101,2104],
+              "into": [],
+              "tags": ["magic damage","movement boost","magic armor penetration"],
+              "maps": null,
+              "tier": 3,
+              "plaintext": null,
+              "consumed": false,
+              "inStore": true,
+              "gold": {
+                "base": 2000,
+                "sell": 1200
+              }
+            }  
+          },
+          {
+            "id": 3201,
+            "name": "Cursed Helmet",
+            "type": 0,
+            "icon": "miya/equip/af06fd1506c3c3b2c730275ec9b209d8.png",
+            "attr_tips": ["+1200 HP", "+25 Magic Defense"],
+            "ex_attr_tips": null,
+            "skill_tips": ["Unique Passive-Burning Soul:Deals 1.5% Magic Damage equal to the Max HP to nearby enemies per second .The damage will increase 50% to Minions"],
+            "custom": {
+              "group": "Defense",
+              "stats": {
+                "FlatHPPoolMod":1200,
+                "FlatMagicArmorMod":25
+              },
+              "effect": {
+                "Effect1Amount":0.015,
+                "Effect2Amount":0.50
+              },
+              "from": [2202,1203],
+              "into": [],
+              "tags": ["hp","magic resistance","dot","extra damage to monster"],
+              "maps": null,
+              "tier": 3,
+              "plaintext": null,
+              "consumed": false,
+              "inStore": true,
+              "gold": {
+                "base": 1830,
+                "sell": 1098
+              }
+            }  
+          },
+          {
+            "id": 3202,
+            "name": "Guardian Helmet",
+            "type": 1,
+            "icon": "miya/equip/19ab66eb7dc306fbc755ffcb0e0dbda6.png",
+            "attr_tips": ["+1550 HP", "+100 HP Regen"],
+            "ex_attr_tips": null,
+            "skill_tips": [
+              "Unique Passive-Recovery:Regenerates 1.5% of hero's Max HP. Eliminating enemy heroes raises regeneration rate by 0.4%, while assists raises the rate by 0.2% (includes eliminations and Assists prior to purchase), up to 3.5%. This effect wears off after 5s of the hero taking damage. "
+            ],
+            "custom": {
+              "group": "Defense",
+              "stats": {
+                "FlatHPPoolMod":1550,
+                "FlatHPRegenMod":100
+              },
+              "effect": {
+                "Effect1Amount":0.015,
+                "Effect2Amount":0.004,
+                "Effect3Amount":0.002,
+                "Effect4Amount":0.035,
+                "Effect5Amount":5
+              },
+              "from": [2201,2201,1204],
+              "into": [],
+              "tags": ["hp","hp regen","hp regen"],
+              "maps": null,
+              "tier": 3,
+              "plaintext": null,
+              "consumed": false,
+              "inStore": true,
+              "gold": {
+                "base": 2400,
+                "sell": 1440
+              }
+            }  
+          },
+          {
+            "id": 3203,
+            "name": "Antique Cuirass",
+            "type": 2,
+            "icon": "miya/equip/f1a085f781c2be806befe9a3346059d6.png",
+            "attr_tips": ["+920 HP", "+54 Physical Defense", "+30 HP Regen"],
+            "ex_attr_tips": null,
+            "skill_tips": ["Unique Passive-Deter:When an enemy hero attacks,reduces Physical & Magic Attack by 6%.This effect lasts 2s.Stack up to 3 times"],
+            "custom": {
+              "group": "Defense",
+              "stats": {
+                "FlatHPPoolMod":920,
+                "FlatArmorMod":54,
+                "FlatHPRegenMod":30
+              },
+              "effect": {
+                "Effect1Amount":0.06,
+                "Effect2Amount":2,
+                "Effect3Amount":3
+              },
+              "from": [2201,2205],
+              "into": [],
+              "tags": ["hp","hp regen","physical defense","debuff"],
+              "maps": null,
+              "tier": 3,
+              "plaintext": null,
+              "consumed": false,
+              "inStore": true,
+              "gold": {
+                "base": 2170,
+                "sell": 1302  
+              }
+            }  
+          },
+          {
+            "id": 3204,
+            "name": "Oracle",
+            "type": 0,
+            "icon": "miya/equip/812f8fe68e072c30bb59687a5e132f83.png",
+            "attr_tips": ["+850 HP", "+42 Magic Defense", "+10% CD Reduction"],
+            "ex_attr_tips": null,
+            "skill_tips": [
+              "Unique Passive-Bless:Raises shield absorption and HP regeneration effects by 30%."
+            ],
+            "custom": {
+              "group": "Defense",
+              "stats": {
+                "FlatHPPoolMod":850,
+                "FlatMagicArmorMod":42,
+                "rPercentCooldownMod":0.10
+              },
+              "effect": {
+                "Effect1Amount":0.30
+              },
+              "from": [2203,1205],
+              "into": [],
+              "tags": ["hp","magic resistance","shield buff","hp regen buff"],
+              "maps": null,
+              "tier": 3,
+              "plaintext": null,
+              "consumed": false,
+              "inStore": true,
+              "gold": {
+                "base": 2110,
+                "sell": 1266
+              }
+            }  
+          },
+          {
+            "id": 3205,
+            "name": "Athena's Shield",
+            "type": 1,
+            "icon": "miya/equip/8d02cafccbeee2daacc5ec033efe5aa0.png",
+            "attr_tips": ["+900 HP", "+62 Magic Defense", "+20 HP Regen"],
+            "ex_attr_tips": null,
+            "skill_tips": [
+              "Unique Passive-Shield:Get a shield of 170~1150 points every 30s. Shield absorption amount grows as the match goes on."
+            ],
+            "custom": {
+              "group": "Defense",
+              "stats": {
+                "FlatHPPoolMod":900,
+                "FlatMagicArmorMod":62,
+                "FlatHPRegenMod":20
+              },
+              "effect": {
+                "Effect1Amount":170,
+                "Effect2Amount":1150,
+                "Effect3Amount":30
+              },
+              "from": [2203,2201],
+              "into": [],
+              "tags": ["hp","magic resistance","hp regen","shield buff","shield"],
+              "maps": null,
+              "tier": 3,
+              "plaintext": null,
+              "consumed": false,
+              "inStore": true,
+              "gold": {
+                "base": 2050,
+                "sell": 1230
+              }
+            }  
+          },
+          {
+            "id": 3206,
+            "name": "Dominance Ice",
+            "type": 2,
+            "icon": "miya/equip/979364c2c3d3a2cef1fdb03791c38e14.png",
+            "attr_tips": [
+              "+500 Mana",
+              "+70 Physical Defense",
+              "+10% Crit Chance Reduction"
+            ],
+            "ex_attr_tips": ["Unique:+10% CD Reduction"],
+            "skill_tips": [
+              "Unique Passive-Arctic Cold:Lowers movement speed 10% and lowers attack speed 30% for nearby enemy heroes."
+            ],
+            "custom": {
+              "group": "Defense",
+              "stats": {
+                "FlatMPPoolMod":500,
+                "FlatArmorMod":70,
+                "PercentCritChanceMod":-0.10
+              },
+              "effect": {
+                "Effect1Amount":0.10,
+                "Effect2Amount":0.30
+              },
+              "from": [2204,1202],
+              "into": [],
+              "tags": ["mana","physical defense","crit debuff","attack speed debuff","movement debuff"],
+              "maps": null,
+              "tier": 3,
+              "plaintext": null,
+              "consumed": false,
+              "inStore": true,
+              "gold": {
+                "base": 2010,
+                "sell": 1206
+              }
+            }  
+          },
+          {
+            "id": 3207,
+            "name": "Immortality",
+            "type": 1,
+            "icon": "miya/equip/3031412d15feaa77014cd66bd0683a7d.png",
+            "attr_tips": ["+800 HP", "+40 Physical Defense"],
+            "ex_attr_tips": null,
+            "skill_tips": [
+              "Unique Passive-Immortal:Resurrect 2s upon death and get 15% HP and a shield that can absorb 300~1000 points of damage. (Scales with hero level) Shield lasts 3s. This effect has a CD of 180s."
+            ],
+            "custom": {
+              "group": "Defense",
+              "stats": {
+                "FlatHPPoolMod":800,
+                "FlatArmorMod":40
+              },
+              "effect": {
+                "Effect1Amount":2,
+                "Effect2Amount":0.15,
+                "Effect3Amount":300,
+                "Effect4Amount":1000,
+                "Effect5Amount":3,
+                "Effect6Amount":180
+              },
+              "from": [2201,1202],
+              "into": [],
+              "tags": ["hp","physical defense","shield"],
+              "maps": null,
+              "tier": 3,
+              "plaintext": null,
+              "consumed": false,
+              "inStore": true,
+              "gold": {
+                "base": 2120,
+                "sell": 1272
+              }
+            }  
+          },
+          {
+            "id": 3208,
+            "name": "Brute Force Breastplate",
+            "type": 2,
+            "icon": "miya/equip/5d2e548fae010a0db5f2f32c9e7731af.png",
+            "attr_tips": ["+770 HP", "+45 Physical Defense"],
+            "ex_attr_tips": null,
+            "skill_tips": [
+              "Unique Passive-Brute Force:Casting a skill or using Basic Attacks will increase Movement Speed by 3%, Physical & Magic Defense by 4. Lasts 4s. Stacks up to 5 times."
+            ],
+            "custom": {
+              "group": "Defense",
+              "stats": {
+                "FlatHPPoolMod":770,
+                "FlatArmorMod":45
+              },
+              "effect": {
+                "Effect1Amount":0.03,
+                "Effect2Amount":4,
+                "Effect3Amount":4,
+                "Effect4Amount":5
+              },
+              "from": [2201,1202],
+              "into": [],
+              "tags": ["hp","physical defense","movement boost","defense buff"],
+              "maps": null,
+              "tier": 3,
+              "plaintext": null,
+              "consumed": false,
+              "inStore": true,
+              "gold": {
+                "base": 1970,
+                "sell": 1182
+              }
+            }  
+          },
+          {
+            "id": 3209,
+            "name": "Twilight Armor",
+            "type": 2,
+            "icon": "miya/equip/f59e2e3fdffe24c3ca82d15801372bc8.png",
+            "attr_tips": ["+1200 HP", "+400 Mana", "+50 HP Regen"],
+            "ex_attr_tips": null,
+            "skill_tips": [
+              "Unique Passive-Defiance:Physical Damage taken will not exceed 900 points. The CD is 4s."
+            ],
+            "custom": {
+              "group": "Defense",
+              "stats": {
+                "FlatHPPoolMod":1200,
+                "FlatMPPoolMod":400,
+                "FlatHPRegenMod":50
+              },
+              "effect": {
+                "Effect1Amount":900,
+                "Effect2Amount":4
+              },
+              "from": [2201,1102,1201],
+              "into": [],
+              "tags": ["hp","mana","hp regen","buff"],
+              "maps": null,
+              "tier": 3,
+              "plaintext": null,
+              "consumed": false,
+              "inStore": true,
+              "gold": {
+                "base": 2260,
+                "sell": 1356
+              }
+            }  
+          },
+          {
+            "id": 3401,
+            "name": "Star Shard",
+            "type": 4,
+            "icon": "miya/equip/f3f9d6000adfc66a34752a2c251ccbd2.png",
+            "attr_tips": [
+              "+30 Magic Power",
+              "+15 Mana Regen",
+              "+15% Magic Lifesteal"
+            ],
+            "ex_attr_tips": ["Unique:+50% Damage to Monsters"],
+            "skill_tips": [
+              "Unique Passive-Recharge:Kill enemy hero to recover HP by 10%.",
+              "Unique Passive-Greed:Gain extra 25% EXP when jungling. After killing Creeps, recovers HP by 4% and Mana by 10%.",
+              "Unique Passive-Success:Makes the Battle Spell 'Retribution' applicable to heroes, reducing the target's movement speed by 70% (effect decays over 3s) and reducing target's Magic Defense. Buying other advanced jungling equipment will disable this effect."
+            ],
+            "custom": {
+              "group": "Jungle",
+              "stats": {
+                "FlatMagicDamageMod":30,
+                "FlatMPRegenMod":15,
+                "PercentMagicLifeStealMod":0.15
+              },
+              "effect": {
+                "Effect1Amount":0.10,
+                "Effect2Amount":0.25,
+                "Effect3Amount":0.10,
+                "Effect4Amount":0.70,
+                "Effect5Amount":3
+              },
+              "from": [2401,1105,1103],
+              "into": [],
+              "tags": ["magic power","mana regen","magic lifesteal","exp buff","gold buff","movement debuff","hp regen","mana regen"],
+              "maps": null,
+              "tier": 3,
+              "plaintext": null,
+              "consumed": false,
+              "inStore": true,
+              "gold": {
+                "base": 1605,
+                "sell": 963
+              }
+            }  
+          },
+          {
+            "id": 3402,
+            "name": "Beast Killer",
+            "type": 4,
+            "icon": "miya/equip/a475c08a0b67e2801cbb31d1ca508877.png",
+            "attr_tips": ["+20 Physical Defense", "+20 Magic Defense"],
+            "ex_attr_tips": ["Unique:+50% Damage to Monsters"],
+            "skill_tips": [
+              "Unique Passive-Impulse:Deals 100 points of Magic Damage at least to enemies nearby (increases with hero level) and slows them by 30% when taking 10% damage of Max HP. Lasts 2s. The effect activates every 2s.",
+              "Unique Passive-Greed:Gain extra 25% EXP when jungling. After killing Creeps, recovers HP by 4% and Mana by 10%.",
+              "Unique Passive-Success:Makes the Battle Spell 'Retribution' applicable to heroes, reducing the target's movement speed by 70% (effect decays over 3s) and for a short period of time grants a shield based on Max HP. Buying other advanced jungling equipment will disable this effect."
+            ],
+            "custom": {
+              "group": "Jungle",
+              "stats": {
+                "FlatArmorMod":20,
+                "FlatMagicArmorMod":20,
+                "PercentExtraMonsterDamageMod":0.50
+              },
+              "effect": {
+                "Effect1Amount":100,
+                "Effect2Amount":0.30,
+                "Effect3Amount":0.10,
+                "Effect4Amount":2,
+                "Effect5Amount":2,
+                "Effect6Amount":0.25,
+                "Effect7Amount":0.04,
+                "Effect8Amount":0.10,
+                "Effect9Amount":0.70,
+                "Effect10Amount":3
+              },
+              "from": [2402,1202,1203],
+              "into": [],
+              "tags": ["extra damage to monster","physical defense","magic resistance"],
+              "maps": null,
+              "tier": 3,
+              "plaintext": null,
+              "consumed": false,
+              "inStore": true,
+              "gold": {
+                "base": 1805,
+                "sell": 1083
+              }
+            }  
+          },
+          {
+            "id": 3403,
+            "name": "Raptor Machete",
+            "type": 4,
+            "icon": "miya/equip/e2f0d70177710e9ce5be464ad762e70f.png",
+            "attr_tips": ["+30 Extra Physical ATK", "+15% Physical PEN"],
+            "ex_attr_tips": ["Unique:+50% Damage to Monsters"],
+            "skill_tips": [
+              "Unique Passive-Breakout:For each 10s, Hero's next Basic Attack will deal extra 50 points of True Damage at least (increases with hero level) and slow enemies by 30%. Lasts 1s. Performing Basic Attacks will reduce its cooldown.",
+              "Unique Passive-Greed:Gain extra 25% EXP when jungling. After killing Creeps, recovers HP by 4% and Mana by 10%.",
+              "Unique Passive-Success:Makes the Battle Spell 'Retribution' applicable to heroes, reducing the target's movement speed by 70% and dealing a small amount of True Damage to the target within 3 seconds. Buying other advanced jungling equipment will disable this effect."
+            ],
+            "custom": {
+              "group": "Jungle",
+              "stats": {
+                "FlatPhysicalDamageMod":30,
+                "rPercentArmorPenetrationMod":0.15,
+                "PercentExtraMonsterDamageMod":0.50
+              },
+              "effect": {
+                "Effect1Amount":10,
+                "Effect2Amount":50,
+                "Effect3Amount":30,
+                "Effect4Amount":1,
+                "Effect5Amount":0.25,
+                "Effect6Amount":0.04,
+                "Effect7Amount":0.10,
+                "Effect8Amount":0.70,
+                "Effect9Amount":3
+              },
+              "from": [2403,1001,1001],
+              "into": [],
+              "tags": ["physical attack","physical penetration","extra damage to monster"],
+              "maps": null,
+              "tier": 3,
+              "plaintext": null,
+              "consumed": false,
+              "inStore": true,
+              "gold": {
+                "base": 1650,
+                "sell": 990
+              }
+            }  
+          },
+          {
+            "id": 3501,
+            "name": "Shadow Mask",
+            "type": 5,
+            "icon": "miya/equip/dbef977b8f7350659abffe759a89bd36.png",
+            "attr_tips": ["+700 HP", "+10% CD Reduction"],
+            "ex_attr_tips": ["Unique:+25 Movement SPD"],
+            "skill_tips": [
+              "Active Skill-Conceal: Conceals you and your teammates nearby and increases Movement SPD by 15% for 5s. Dealing or taking damage will end the state. Cooldown: 80s. This effect prevents hero from benefiting from Conceal and Encourage again in 80s.",
+              "Unique Passive-Devotion:Obtain 2 EXP and Gold every 4s. In the first 12 minutes of the match, this equipment makes you gain nothing from Minions or Creeps if there are teammates without Roaming Equipment, or those with but have higher EXP or Gold than yours around you. They will share the whole EXP or Gold.",
+              "Unique Passive-Thriving:Gains extra 35% Gold and EXP with Assists. When your Gold ranks the 5th in your team, increase Gold you gain to 20 per 4s. When your EXP ranks the 5th in your team, increase EXP you gain to 35 per 4s. "
+            ],
+            "custom": {
+              "group": "Roam",
+              "stats": {
+                "FlatHPPoolMod":700,
+                "rPercentCooldownMod":0.10,
+                "FlatMovementSpeedMod":25
+              },
+              "effect": {},
+              "from": [2501],
+              "into": [],
+              "tags": [],
+              "maps": null,
+              "tier": 3,
+              "plaintext": null,
+              "consumed": false,
+              "inStore": true,
+              "gold": {
+                "base": 1750,
+                "sell": 1050
+              }
+            }  
+          },
+          {
+            "id": 3502,
+            "name": "Courage Mask",
+            "type": 5,
+            "icon": "miya/equip/ad1799e37b6cb2f217b0d27637f76bfd.png",
+            "attr_tips": ["+700 HP", "+10% CD Reduction"],
+            "ex_attr_tips": ["Unique:+25 Movement SPD"],
+            "skill_tips": [
+              "Active Skill-Encourage: Increases Movement Speed of the hero and nearby allied heroes by 30%. Also increases Physical & Magic Attack by 20%. Last 3s. The CD is 80s. This effect prevents hero from benefiting from Conceal and Encourage again in 80 s.",
+              "Unique Passive-Bravery:Increases 10% of Physical & Magic Attack, 10% of Physical & Magic Defense and 50% of HP & Mana Regen for nearby allies.",
+              "Unique Passive-Devotion:Obtain 2 EXP and Gold every 4s. In the first 12 minutes of the match, this equipment makes you gain nothing from Minions or Creeps if there are teammates without Roaming Equipment, or those with but have higher EXP or Gold than yours around you. They will share the whole EXP or Gold.",
+              "Unique Passive-Thriving:Gains extra 35% Gold and EXP with Assists. When your Gold ranks the 5th in your team, increase Gold you gain to 20 per 4s. When your EXP ranks the 5th in your team, increase EXP you gain to 35 per 4s. "
+            ],
+            "custom": {
+              "group": "Roam",
+              "stats": {
+                "FlatHPPoolMod":700,
+                "rPercentCooldownMod":0.10,
+                "FlatMovementSpeedMod":25
+              },
+              "effect": {},
+              "from": [2501],
+              "into": [],
+              "tags": [],
+              "maps": null,
+              "tier": 3,
+              "plaintext": null,
+              "consumed": false,
+              "inStore": true,
+              "gold": {
+                "base": 1750,
+                "sell": 1050
+              }
+            }  
+          },
+          {
+            "id": 3503,
+            "name": "Awe Mask",
+            "type": 1,
+            "icon": "miya/equip/2022cfe9041ae05f49b92f2d88b3f8a6.png",
+            "attr_tips": ["+700 HP", "+10% CD Reduction"],
+            "ex_attr_tips": ["Unique:+25 Movement SPD"],
+            "skill_tips": [
+              "Unique Passive-Deter:Basic Attack will mark an enemy hero and slow the hero down by 90% for 1.2s. (Each mark will refresh the duration of it; A target cannot be marked twice in 0.6s). During the mark time, this hero will be stunned for 1.5s when attacked 5 times by you or your teammates. Cools down every 40s.",
+              "Unique Passive-Devotion:Obtain 2 EXP and Gold every 4s. In the first 12 minutes of the match, this equipment makes you gain nothing from Minions or Creeps if there are teammates without Roaming Equipment, or those with but have higher EXP or Gold than yours around you. They will share the whole EXP or Gold.",
+              "Unique Passive-Thriving:Gains extra 35% Gold and EXP with Assists. When your Gold ranks the 5th in your team, increase Gold you gain to 20 per 4s. When your EXP ranks the 5th in your team, increase EXP you gain to 35 per 4s. "
+            ],
+            "custom": {
+              "group": "Roam",
+              "stats": {
+                "FlatHPPoolMod":700,
+                "rPercentCooldownMod":0.10,
+                "FlatMovementSpeedMod":25
+              },
+              "effect": {},
+              "from": [2501],
+              "into": [],
+              "tags": [],
+              "maps": null,
+              "tier": 3,
+              "plaintext": null,
+              "consumed": false,
+              "inStore": true,
+              "gold": {
+                "base": 1750,
+                "sell": 1050
+              }
+            }  
+          }
+        ]
+      }
+    }
+  ]
+}

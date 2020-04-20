@@ -1,0 +1,2645 @@
+{
+    "emblem":[
+        {        
+            "data": {
+                
+                    "basic": {
+                      "name": "",
+                      "rune": {
+                        "isrune": false,
+                        "tier": 1,
+                        "type": "red"
+                      },
+                      "gold": {
+                        "base": 0,
+                        "total": 0,
+                        "sell": 0,
+                        "purchasable": false
+                      },
+                      "group": "",
+                      "description": "",
+                      "colloq": ";",
+                      "plaintext": "",
+                      "consumed": false,
+                      "stacks": 1,
+                      "depth": 1,
+                      "consumeOnFull": false,
+                      "from": [],
+                      "into": [],
+                      "specialRecipe": 0,
+                      "inStore": true,
+                      "hideFromAll": false,
+                      "requiredChampion": "",
+                      "requiredAlly": "",
+                      "stats": {
+                        "FlatHPPoolMod": 0,
+                        "rFlatHPModPerLevel": 0,
+                        "FlatMPPoolMod": 0,
+                        "rFlatMPModPerLevel": 0,
+                        "PercentHPPoolMod": 0,
+                        "PercentMPPoolMod": 0,
+                        "FlatHPRegenMod": 0,
+                        "rFlatHPRegenModPerLevel": 0,
+                        "PercentHPRegenMod": 0,
+                        "FlatMPRegenMod": 0,
+                        "rFlatMPRegenModPerLevel": 0,
+                        "PercentMPRegenMod": 0,
+                        "FlatArmorMod": 0,
+                        "rFlatArmorModPerLevel": 0,
+                        "PercentArmorMod": 0,
+                        "rFlatArmorPenetrationMod": 0,
+                        "rFlatArmorPenetrationModPerLevel": 0,
+                        "FlatMagicArmorMod": 0,
+                        "rFlatMagicArmorModPerLevel": 0,
+                        "PercentMagicArmorMod": 0,
+                        "rFlatMagicArmorPenetrationMod": 0,
+                        "rFlatMagicArmorPenetrationModPerLevel": 0,
+                        "rPercentArmorPenetrationMod": 0,
+                        "rPercentArmorPenetrationModPerLevel": 0,
+                        "FlatPhysicalDamageMod": 0,
+                        "rFlatPhysicalDamageModPerLevel": 0,
+                        "PercentPhysicalDamageMod": 0,
+                        "FlatMagicDamageMod": 0,
+                        "rFlatMagicDamageModPerLevel": 0,
+                        "rPercentMagicDamageModPerLevel": 0,
+                        "PercentMagicDamageMod": 0,
+                        "FlatMovementSpeedMod": 0,
+                        "rFlatMovementSpeedModPerLevel": 0,
+                        "PercentMovementSpeedMod": 0,
+                        "rPercentMovementSpeedModPerLevel": 0,
+                        "FlatAttackSpeedMod": 0,
+                        "PercentAttackSpeedMod": 0,
+                        "rPercentAttackSpeedModPerLevel": 0,
+                        "rFlatDodgeMod": 0,
+                        "rFlatDodgeModPerLevel": 0,
+                        "PercentDodgeMod": 0,
+                        "FlatCritChanceMod": 0,
+                        "rFlatCritChanceModPerLevel": 0,
+                        "rPercentCritChanceModPerLevel": 0,
+                        "PercentCritChanceMod": 0,
+                        "FlatCritDamageMod": 0,
+                        "rFlatCritDamageModPerLevel": 0,
+                        "PercentCritDamageMod": 0,
+                        "FlatBlockMod": 0,
+                        "PercentBlockMod": 0,
+                        "FlatSpellBlockMod": 0,
+                        "rFlatSpellBlockModPerLevel": 0,
+                        "PercentSpellBlockMod": 0,
+                        "FlatEXPBonus": 0,
+                        "PercentEXPBonus": 0,
+                        "rPercentCooldownMod": 0,
+                        "rPercentCooldownModPerLevel": 0,
+                        "rPercentBattleSpellCooldownModPerLevel": 0,
+                        "rFlatBattleSpellCooldownModPerLevel": 0,
+                        "rFlatTimeDeadMod": 0,
+                        "rFlatTimeDeadModPerLevel": 0,
+                        "rPercentTimeDeadMod": 0,
+                        "rPercentTimeDeadModPerLevel": 0,
+                        "rFlatGoldPer10Mod": 0,
+                        "rFlatMagicPenetrationMod": 0,
+                        "rFlatMagicPenetrationModPerLevel": 0,
+                        "rPercentMagicPenetrationMod": 0,
+                        "rPercentMagicPenetrationModPerLevel": 0,
+                        "FlatEnergyRegenMod": 0,
+                        "rFlatEnergyRegenModPerLevel": 0,
+                        "FlatEnergyPoolMod": 0,
+                        "rFlatEnergyModPerLevel": 0,
+                        "PercentLifeStealMod": 0,
+                        "rPercentLifeStealModPerLevel": 0,
+                        "rFlatLifeStealModPerLevel": 0,
+                        "rFlatMagicLifeStealPerLevel": 0,
+                        "PercentMagicLifeStealMod": 0,
+                        "rPercentMagicLifeStealMod": 0,
+                        "PercentSpellVampMod": 0,
+                        "rPercentSpellVampModPerLevel": 0,
+                        "FlatExtraMonsterDamageMod": 0,
+                        "rFlatExtraMonsterDamageModPerLevel": 0,
+                        "PercentExtraMonsterDamageMod": 0,
+                        "rPercentExtraMonsterDamageModPerLevel": 0,
+                        "rFlatExtraMonsterDamagePenetrationMod": 0,
+                        "rFlatExtraMonsterDamagePenetrationModPerLevel": 0,
+                        "rFlatBlockMonsterDamageModPerLevel":0,
+                        "rPercentBlockMonsterDamageModPerLevel":0,
+                        "rPercentHealingModPerLevel":0
+                      },
+                      "effects":{
+                          "Effect1Amount":0,
+                          "Effect2Amount":0,
+                          "Effect3Amount":0,
+                          "Effect4Amount":0,
+                          "Effect5Amount":0,
+                          "Effect6Amount":0,
+                          "Effect7Amount":0,
+                          "Effect8Amount":0,
+                          "Effect9Amount":0,
+                          "Effect10Amount":0
+                      },
+                      "tags": [],
+                      "maps": {
+                        "1": true,
+                        "8": true,
+                        "10": true,
+                        "12": true
+                      }
+                    },
+                "emblem": [
+                    {
+                        "icon": "miya/emblem/c48df73a299b53a5b18239b54a0b1699.png",
+                        "id": 20001,
+                        "name": "Physical"
+                    },
+                    {
+                        "icon": "miya/emblem/c2f199f82fa96fde46e6dbbfe8926c6d.png",
+                        "id": 20002,
+                        "name": "Magic"
+                    },
+                    {
+                        "icon": "miya/emblem/70b55593e09fdf40ef9d220d2c5dac5a.png",
+                        "id": 20003,
+                        "name": "Tank"
+                    },
+                    {
+                        "icon": "miya/emblem/f423812cbde7d146478cc988779c24e7.png",
+                        "id": 20004,
+                        "name": "Jungle"
+                    },
+                    {
+                        "icon": "miya/emblem/ffc4e9538b7b4c87a2aaf7c07ccc1f9b.png",
+                        "id": 20005,
+                        "name": "Assassin"
+                    },
+                    {
+                        "icon": "miya/emblem/978df8b913ade2cbeb5ff458c6b938d5.png",
+                        "id": 20006,
+                        "name": "Mage"
+                    },
+                    {
+                        "icon": "miya/emblem/8e0d10bd7fe7bb65717384e963cadcc1.png",
+                        "id": 20007,
+                        "name": "Fighter"
+                    },
+                    {
+                        "icon": "miya/emblem/c3f5b20dd96a5418f05dc9869a1bc4b4.png",
+                        "id": 20008,
+                        "name": "Support"
+                    },
+                    {
+                        "icon": "miya/emblem/f634eaf6d5108e4cd00894832a91bb86.png",
+                        "id": 20012,
+                        "name": "Marksman"
+                    }
+                ],
+                "talent": [
+                    {
+                        "effects": [
+                            {
+                                "level": 1,
+                                "tips": [
+                                    "HP +65"
+                                ]
+                            },
+                            {
+                                "level": 2,
+                                "tips": [
+                                    "HP +130"
+                                ]
+                            },
+                            {
+                                "level": 3,
+                                "tips": [
+                                    "HP +200"
+                                ]
+                            }
+                        ],
+                        "emblem_id": 20001,
+                        "icon": "miya/emblem/c52249ab077466f73a1db8dc46a874f4.png",
+                        "layer": 1,
+                        "max_level": 3,
+                        "name": "Vitality",
+                        "talent_id": 101,
+                        "custom": {
+                            "stats": {
+                                "rFlatHPModPerLevel":65
+                            }
+                          }  
+                    },
+                    {
+                        "effects": [
+                            {
+                                "level": 1,
+                                "tips": [
+                                    "Physical Defense +4"
+                                ]
+                            },
+                            {
+                                "level": 2,
+                                "tips": [
+                                    "Physical Defense +8"
+                                ]
+                            },
+                            {
+                                "level": 3,
+                                "tips": [
+                                    "Physical Defense +12"
+                                ]
+                            }
+                        ],
+                        "emblem_id": 20001,
+                        "icon": "miya/emblem/c09b1c72ef2caa90a4bdbd22bda51796.png",
+                        "layer": 1,
+                        "max_level": 3,
+                        "name": "Firmness",
+                        "talent_id": 102,
+                        "custom": {
+                            "group": "",
+                            "stats": {
+                                "rFlatMagicArmorModPerLevel":4
+                            }
+                          }  
+                    },
+                    {
+                        "effects": [
+                            {
+                                "level": 1,
+                                "tips": [
+                                    "Magic Defense +4"
+                                ]
+                            },
+                            {
+                                "level": 2,
+                                "tips": [
+                                    "Magic Defense +8"
+                                ]
+                            },
+                            {
+                                "level": 3,
+                                "tips": [
+                                    "Magic Defense +12"
+                                ]
+                            }
+                        ],
+                        "emblem_id": 20001,
+                        "icon": "miya/emblem/2c5d6bb5c31e089cd3119c8e9789c6c2.png",
+                        "layer": 1,
+                        "max_level": 3,
+                        "name": "Shield",
+                        "talent_id": 103,
+                        "custom": {
+                            "group": "",
+                            "stats": {
+                                "rFlatMagicArmorModPerLevel":4
+                            }
+                          }  
+                    },
+                    {
+                        "effects": [
+                            {
+                                "level": 1,
+                                "tips": [
+                                    "Extra Physical ATK +4"
+                                ]
+                            },
+                            {
+                                "level": 2,
+                                "tips": [
+                                    "Extra Physical ATK +8"
+                                ]
+                            },
+                            {
+                                "level": 3,
+                                "tips": [
+                                    "Extra Physical ATK +12"
+                                ]
+                            }
+                        ],
+                        "emblem_id": 20001,
+                        "icon": "miya/emblem/4bcec9568eab0f6b74264ebb6dc1a094.png",
+                        "layer": 2,
+                        "max_level": 3,
+                        "name": "Bravery",
+                        "talent_id": 104,
+                        "custom": {
+                            "group": "",
+                            "stats": {
+                                "rFlatPhysicalDamageModPerLevel":4
+                            }
+                          }  
+                    },
+                    {
+                        "effects": [
+                            {
+                                "level": 1,
+                                "tips": [
+                                    "Attack Speed +2%"
+                                ]
+                            },
+                            {
+                                "level": 2,
+                                "tips": [
+                                    "Attack Speed +4%"
+                                ]
+                            },
+                            {
+                                "level": 3,
+                                "tips": [
+                                    "Attack Speed +6%"
+                                ]
+                            }
+                        ],
+                        "emblem_id": 20001,
+                        "icon": "miya/emblem/a609035ade4d9ac35b4bd8f03d356d67.png",
+                        "layer": 2,
+                        "max_level": 3,
+                        "name": "Swift",
+                        "talent_id": 105,
+                        "custom": {
+                            "group": "",
+                            "stats": {
+                                "rPercentAttackSpeedModPerLevel":0.02
+                            }
+                          }  
+                    },
+                    {
+                        "effects": [
+                            {
+                                "level": 1,
+                                "tips": [
+                                    "Crit Chance +1%"
+                                ]
+                            },
+                            {
+                                "level": 2,
+                                "tips": [
+                                    "Crit Chance +2%"
+                                ]
+                            },
+                            {
+                                "level": 3,
+                                "tips": [
+                                    "Crit Chance +3%"
+                                ]
+                            }
+                        ],
+                        "emblem_id": 20001,
+                        "icon": "miya/emblem/429bf3e0b4fa23d9735467e1907d7732.png",
+                        "layer": 2,
+                        "max_level": 3,
+                        "name": "Fatal",
+                        "talent_id": 106,
+                        "custom": {
+                            "group": "",
+                            "stats": {
+                                "rPercentCritChanceModPerLevel":0.01
+                            }
+                          }  
+                    },
+                    {
+                        "effects": [
+                            {
+                                "level": 1,
+                                "tips": [
+                                    "Kill an enemy minion to restore 3% max HP worth of HP."
+                                ]
+                            }
+                        ],
+                        "emblem_id": 20001,
+                        "icon": "miya/emblem/a7d67d23b3ca7ab7a5d32c7dea7e851f.png",
+                        "layer": 3,
+                        "max_level": 1,
+                        "name": "Life Drain",
+                        "talent_id": 107
+                    },
+                    {
+                        "effects": [
+                            {
+                                "level": 1,
+                                "tips": [
+                                    "Dealing damage with skills increases physical attack by 5%. Lasts 3 seconds. This effect has a 6 second cooldown"
+                                ]
+                            }
+                        ],
+                        "emblem_id": 20001,
+                        "icon": "miya/emblem/ae7163a9de1c3cc12712626156f26ebe.png",
+                        "layer": 3,
+                        "max_level": 1,
+                        "name": "Open Fire",
+                        "talent_id": 108,
+                        "custom": {
+                            "group": "",
+                            "stats": {},
+                            "effects":{
+                                "Effect1Amount":0.05,
+                                "Effect2Amount":3,
+                                "Effect3Amount":6
+                            }
+                          }  
+                        
+                    },
+                    {
+                        "effects": [
+                            {
+                                "level": 1,
+                                "tips": [
+                                    "Mana +70"
+                                ]
+                            },
+                            {
+                                "level": 2,
+                                "tips": [
+                                    "Mana +140"
+                                ]
+                            },
+                            {
+                                "level": 3,
+                                "tips": [
+                                    "Mana +210"
+                                ]
+                            }
+                        ],
+                        "emblem_id": 20002,
+                        "icon": "miya/emblem/c8220dea6f227b2447885e5f2dcb044f.png",
+                        "layer": 1,
+                        "max_level": 3,
+                        "name": "Energy",
+                        "talent_id": 201,
+                        "custom": {
+                            "group": "",
+                            "stats": {
+                                "rFlatMPModPerLevel":70
+                            },
+                            "effects":{
+                                
+                            }
+                          }  
+                        
+                    },
+                    {
+                        "effects": [
+                            {
+                                "level": 1,
+                                "tips": [
+                                    "HP +65"
+                                ]
+                            },
+                            {
+                                "level": 2,
+                                "tips": [
+                                    "HP +130"
+                                ]
+                            },
+                            {
+                                "level": 3,
+                                "tips": [
+                                    "HP +200"
+                                ]
+                            }
+                        ],
+                        "emblem_id": 20002,
+                        "icon": "miya/emblem/c52249ab077466f73a1db8dc46a874f4.png",
+                        "layer": 1,
+                        "max_level": 3,
+                        "name": "Vitality",
+                        "talent_id": 202,
+                        "custom": {
+                            "group": "",
+                            "stats": {
+                                "rFlatHPModPerLevel":65
+                            },
+                            "effects":{
+                                
+                            }
+                          }  
+                        
+                    },
+                    {
+                        "effects": [
+                            {
+                                "level": 1,
+                                "tips": [
+                                    "Mana Regen +7"
+                                ]
+                            },
+                            {
+                                "level": 2,
+                                "tips": [
+                                    "Mana Regen +14"
+                                ]
+                            },
+                            {
+                                "level": 3,
+                                "tips": [
+                                    "Mana Regen +21"
+                                ]
+                            }
+                        ],
+                        "emblem_id": 20002,
+                        "icon": "miya/emblem/961c4b72b2d2f8fa6c84ed885a8f66ff.png",
+                        "layer": 1,
+                        "max_level": 3,
+                        "name": "Awaken",
+                        "talent_id": 203,
+                        "custom": {
+                            "group": "",
+                            "stats": {
+                                "rFlatMPRegenModPerLevel":7
+                            },
+                            "effects":{
+                                
+                            }
+                          }  
+                        
+                    },
+                    {
+                        "effects": [
+                            {
+                                "level": 1,
+                                "tips": [
+                                    "Magic Power +4"
+                                ]
+                            },
+                            {
+                                "level": 2,
+                                "tips": [
+                                    "Magic Power +8"
+                                ]
+                            },
+                            {
+                                "level": 3,
+                                "tips": [
+                                    "Magic Power +12"
+                                ]
+                            }
+                        ],
+                        "emblem_id": 20002,
+                        "icon": "miya/emblem/e4231e8ca5bb0ce15e072090d72f9878.png",
+                        "layer": 2,
+                        "max_level": 3,
+                        "name": "Flow",
+                        "talent_id": 204,
+                        "custom": {
+                            "group": "",
+                            "stats": {
+                                "rFlatMagicDamageModPerLevel":4
+                            },
+                            "effects":{
+                                
+                            }
+                          }  
+                        
+                    },
+                    {
+                        "effects": [
+                            {
+                                "level": 1,
+                                "tips": [
+                                    "CD Reduction +1%",
+                                    "Magic Lifesteal +1%"
+                                ]
+                            },
+                            {
+                                "level": 2,
+                                "tips": [
+                                    "CD Reduction +2%",
+                                    "Magic Lifesteal +3%"
+                                ]
+                            },
+                            {
+                                "level": 3,
+                                "tips": [
+                                    "CD Reduction +3%",
+                                    "Magic Lifesteal +4%"
+                                ]
+                            }
+                        ],
+                        "emblem_id": 20002,
+                        "icon": "miya/emblem/d6e6e21a5a67308b1d5c9029119488e7.png",
+                        "layer": 2,
+                        "max_level": 3,
+                        "name": "Desire",
+                        "talent_id": 205,
+                        "custom": {
+                            "group": "",
+                            "stats": {
+                                "rPercentCooldownModPerLevel":0.01,
+                                "rPercentMagicLifeStealMod":0.013
+                            },
+                            "effects":{
+                                
+                            }
+                          }  
+                        
+                    },
+                    {
+                        "effects": [
+                            {
+                                "level": 1,
+                                "tips": [
+                                    "Magic PEN +2"
+                                ]
+                            },
+                            {
+                                "level": 2,
+                                "tips": [
+                                    "Magic PEN +4"
+                                ]
+                            },
+                            {
+                                "level": 3,
+                                "tips": [
+                                    "Magic PEN +6"
+                                ]
+                            }
+                        ],
+                        "emblem_id": 20002,
+                        "icon": "miya/emblem/977309316390ccddec634efedde2ee82.png",
+                        "layer": 2,
+                        "max_level": 3,
+                        "name": "Observation",
+                        "talent_id": 206,
+                        "custom": {
+                            "group": "",
+                            "stats": {
+                                "rFlatMagicArmorPenetrationModPerLevel":2
+                            },
+                            "effects":{
+                                
+                            }
+                          }  
+                        
+                    },
+                    {
+                        "effects": [
+                            {
+                                "level": 1,
+                                "tips": [
+                                    "Kill enemy minions to restore 2% max HP worth of HP and 3% max MP worth of MP."
+                                ]
+                            }
+                        ],
+                        "emblem_id": 20002,
+                        "icon": "miya/emblem/83bd7ef6163b6635b5e8a86f34713d42.png",
+                        "layer": 3,
+                        "max_level": 1,
+                        "name": "Energy Absorption",
+                        "talent_id": 207,
+                        "custom": {
+                            "group": "",
+                            "stats": {},
+                            "effects":{
+                                
+                            }
+                          }  
+                        
+                    },
+                    {
+                        "effects": [
+                            {
+                                "level": 1,
+                                "tips": [
+                                    "Dealing damage with skills increases magic attack by 11~25 (increases with hero level). Lasts 3 seconds. This effect has a 6 second cooldown."
+                                ]
+                            }
+                        ],
+                        "emblem_id": 20002,
+                        "icon": "miya/emblem/70701731ba0fe41b3420c37564689499.png",
+                        "layer": 3,
+                        "max_level": 1,
+                        "name": "Magic Power Surge",
+                        "talent_id": 208
+                    },
+                    {
+                        "effects": [
+                            {
+                                "level": 1,
+                                "tips": [
+                                    "HP +65"
+                                ]
+                            },
+                            {
+                                "level": 2,
+                                "tips": [
+                                    "HP +130"
+                                ]
+                            },
+                            {
+                                "level": 3,
+                                "tips": [
+                                    "HP +200"
+                                ]
+                            }
+                        ],
+                        "emblem_id": 20003,
+                        "icon": "miya/emblem/c52249ab077466f73a1db8dc46a874f4.png",
+                        "layer": 1,
+                        "max_level": 3,
+                        "name": "Vitality",
+                        "talent_id": 301,
+                        "custom": {
+                            "group": "",
+                            "stats": {
+                                "rFlatHPModPerLevel":65
+                            },
+                            "effects":{
+                                
+                            }
+                          }  
+                        
+                    },
+                    {
+                        "effects": [
+                            {
+                                "level": 1,
+                                "tips": [
+                                    "Physical Defense +4"
+                                ]
+                            },
+                            {
+                                "level": 2,
+                                "tips": [
+                                    "Physical Defense +8"
+                                ]
+                            },
+                            {
+                                "level": 3,
+                                "tips": [
+                                    "Physical Defense +12"
+                                ]
+                            }
+                        ],
+                        "emblem_id": 20003,
+                        "icon": "miya/emblem/c09b1c72ef2caa90a4bdbd22bda51796.png",
+                        "layer": 1,
+                        "max_level": 3,
+                        "name": "Firmness",
+                        "talent_id": 302,
+                        "custom": {
+                            "group": "",
+                            "stats": {
+                                "rFlatArmorModPerLevel":4
+                            },
+                            "effects":{
+                                
+                            }
+                          }  
+                        
+                    },
+                    {
+                        "effects": [
+                            {
+                                "level": 1,
+                                "tips": [
+                                    "Magic Defense +4"
+                                ]
+                            },
+                            {
+                                "level": 2,
+                                "tips": [
+                                    "Magic Defense +8"
+                                ]
+                            },
+                            {
+                                "level": 3,
+                                "tips": [
+                                    "Magic Defense +12"
+                                ]
+                            }
+                        ],
+                        "emblem_id": 20003,
+                        "icon": "miya/emblem/2c5d6bb5c31e089cd3119c8e9789c6c2.png",
+                        "layer": 1,
+                        "max_level": 3,
+                        "name": "Shield",
+                        "talent_id": 303,
+                        "custom": {
+                            "group": "",
+                            "stats": {
+                                "rFlatMagicArmorModPerLevel":4
+                            },
+                            "effects":{
+                                
+                            }
+                          }  
+                        
+                    },
+                    {
+                        "effects": [
+                            {
+                                "level": 1,
+                                "tips": [
+                                    "CD Reduction +2%"
+                                ]
+                            },
+                            {
+                                "level": 2,
+                                "tips": [
+                                    "CD Reduction +5%"
+                                ]
+                            },
+                            {
+                                "level": 3,
+                                "tips": [
+                                    "CD Reduction +8%"
+                                ]
+                            }
+                        ],
+                        "emblem_id": 20003,
+                        "icon": "miya/emblem/d6e6e21a5a67308b1d5c9029119488e7.png",
+                        "layer": 2,
+                        "max_level": 3,
+                        "name": "Inspire",
+                        "talent_id": 304,
+                        "custom": {
+                            "group": "",
+                            "stats": {
+                                "rPercentCooldownModPerLevel":2.6
+                            },
+                            "effects":{
+                                
+                            }
+                          }  
+                        
+                    },
+                    {
+                        "effects": [
+                            {
+                                "level": 1,
+                                "tips": [
+                                    "Physical Defense +2%"
+                                ]
+                            },
+                            {
+                                "level": 2,
+                                "tips": [
+                                    "Physical Defense +5%"
+                                ]
+                            },
+                            {
+                                "level": 3,
+                                "tips": [
+                                    "Physical Defense +8%"
+                                ]
+                            }
+                        ],
+                        "emblem_id": 20003,
+                        "icon": "miya/emblem/47cf6cac3c206331d863214c299ec32b.png",
+                        "layer": 2,
+                        "max_level": 3,
+                        "name": "Fortress",
+                        "talent_id": 305,
+                        "custom": {
+                            "group": "",
+                            "stats": {
+                                "rFlatPhysicalDamageModPerLevel":2.6
+                            },
+                            "effects":{
+                                
+                            }
+                          }  
+                        
+                    },
+                    {
+                        "effects": [
+                            {
+                                "level": 1,
+                                "tips": [
+                                    "Magic Defense +2%"
+                                ]
+                            },
+                            {
+                                "level": 2,
+                                "tips": [
+                                    "Magic Defense +5%"
+                                ]
+                            },
+                            {
+                                "level": 3,
+                                "tips": [
+                                    "Magic Defense +8%"
+                                ]
+                            }
+                        ],
+                        "emblem_id": 20003,
+                        "icon": "miya/emblem/978d69d0f92d5aca5b6a8c00ddbfc2ec.png",
+                        "layer": 2,
+                        "max_level": 3,
+                        "name": "Purity",
+                        "talent_id": 306,
+                        "custom": {
+                            "group": "",
+                            "stats": {
+                                "rFlatMagicArmorModPerLevel":2.6
+                            },
+                            "effects":{
+                                
+                            }
+                          }  
+                        
+                    },
+                    {
+                        "effects": [
+                            {
+                                "level": 1,
+                                "tips": [
+                                    "When health is below 40%, gains an increased 35 physical and magic defense"
+                                ]
+                            }
+                        ],
+                        "emblem_id": 20003,
+                        "icon": "miya/emblem/72df1cabe39db097bcb12e8aa9130ffb.png",
+                        "layer": 3,
+                        "max_level": 1,
+                        "name": "Tenacity",
+                        "talent_id": 307
+                    },
+                    {
+                        "effects": [
+                            {
+                                "level": 1,
+                                "tips": [
+                                    "Crowd controlling a enemy grants 5% of max HP. This effect has a 10 second cooldown."
+                                ]
+                            }
+                        ],
+                        "emblem_id": 20003,
+                        "icon": "miya/emblem/894c7b5d33d004a8ec4765ccb54d4bb2.png",
+                        "layer": 3,
+                        "max_level": 1,
+                        "name": "Brave Smite",
+                        "talent_id": 308
+                    },
+                    {
+                        "effects": [
+                            {
+                                "level": 1,
+                                "tips": [
+                                    "Converts 0.40% of max HP to physical attack and magic attack"
+                                ]
+                            }
+                        ],
+                        "emblem_id": 20003,
+                        "icon": "miya/emblem/3e2d8c71234cdc3c294f85ea14d805ad.png",
+                        "layer": 3,
+                        "max_level": 1,
+                        "name": "Attack and Defense",
+                        "talent_id": 309
+                    },
+                    {
+                        "effects": [
+                            {
+                                "level": 1,
+                                "tips": [
+                                    "Hybrid Attack +4"
+                                ]
+                            },
+                            {
+                                "level": 2,
+                                "tips": [
+                                    "Hybrid Attack +8"
+                                ]
+                            },
+                            {
+                                "level": 3,
+                                "tips": [
+                                    "Hybrid Attack +12"
+                                ]
+                            }
+                        ],
+                        "emblem_id": 20004,
+                        "icon": "miya/emblem/cb9270688fb2dbe19e6851fa3c0b65af.png",
+                        "layer": 1,
+                        "max_level": 3,
+                        "name": "Thrill",
+                        "talent_id": 401,
+                        "custom": {
+                            "group": "",
+                            "stats": {
+                                "rFlatPhysicalDamageModPerLevel":4,
+                                "rFlatMagicDamageModPerLevel":4
+                            },
+                            "effects":{
+                                
+                            }
+                          }  
+                        
+                    },
+                    {
+                        "effects": [
+                            {
+                                "level": 1,
+                                "tips": [
+                                    "Damage to Monsters +7%"
+                                ]
+                            },
+                            {
+                                "level": 2,
+                                "tips": [
+                                    "Damage to Monsters +14%"
+                                ]
+                            },
+                            {
+                                "level": 3,
+                                "tips": [
+                                    "Damage to Monsters +21%"
+                                ]
+                            }
+                        ],
+                        "emblem_id": 20004,
+                        "icon": "miya/emblem/d5c41bcf1e58479d3fb44dd47e3385b8.png",
+                        "layer": 1,
+                        "max_level": 3,
+                        "name": "Brutal",
+                        "talent_id": 402,
+                        "custom": {
+                            "group": "",
+                            "stats": {
+                                "rPercentExtraMonsterDamageModPerLevel":0.07
+                            },
+                            "effects":{
+                                
+                            }
+                          }  
+                        
+                    },
+                    {
+                        "effects": [
+                            {
+                                "level": 1,
+                                "tips": [
+                                    "Physical & Magic Lifesteal +150"
+                                ]
+                            },
+                            {
+                                "level": 2,
+                                "tips": [
+                                    "Physical & Magic Lifesteal +300"
+                                ]
+                            },
+                            {
+                                "level": 3,
+                                "tips": [
+                                    "Physical & Magic Lifesteal +500"
+                                ]
+                            }
+                        ],
+                        "emblem_id": 20004,
+                        "icon": "miya/emblem/71c34fdb1518c86bd74eec4fe666aa4d.png",
+                        "layer": 1,
+                        "max_level": 3,
+                        "name": "Balance",
+                        "talent_id": 403,
+                        "custom": {
+                            "group": "",
+                            "stats": {
+                                "rFlatLifeStealModPerLevel":150,
+                                "rFlatMagicLifeStealPerLevel":150
+                            },
+                            "effects":{
+                                
+                            }
+                          }  
+                        
+                    },
+                    {
+                        "effects": [
+                            {
+                                "level": 1,
+                                "tips": [
+                                    "Attack Speed +1%"
+                                ]
+                            },
+                            {
+                                "level": 2,
+                                "tips": [
+                                    "Attack Speed +3%"
+                                ]
+                            },
+                            {
+                                "level": 3,
+                                "tips": [
+                                    "Attack Speed +5%"
+                                ]
+                            }
+                        ],
+                        "emblem_id": 20004,
+                        "icon": "miya/emblem/a609035ade4d9ac35b4bd8f03d356d67.png",
+                        "layer": 2,
+                        "max_level": 3,
+                        "name": "Swift",
+                        "talent_id": 404,
+                        "custom": {
+                            "group": "",
+                            "stats": {
+                                "rPercentAttackSpeedModPerLevel":1.5
+                            },
+                            "effects":{
+                                
+                            }
+                          }  
+                        
+                    },
+                    {
+                        "effects": [
+                            {
+                                "level": 1,
+                                "tips": [
+                                    "Battle Spell Cooldown Reduction +2"
+                                ]
+                            },
+                            {
+                                "level": 2,
+                                "tips": [
+                                    "Battle Spell Cooldown Reduction +4"
+                                ]
+                            },
+                            {
+                                "level": 3,
+                                "tips": [
+                                    "Battle Spell Cooldown Reduction +6"
+                                ]
+                            }
+                        ],
+                        "emblem_id": 20004,
+                        "icon": "miya/emblem/3a739b1469912a93ba4558defca881a6.png",
+                        "layer": 2,
+                        "max_level": 3,
+                        "name": "Knowledge",
+                        "talent_id": 405,
+                        "custom": {
+                            "group": "",
+                            "stats": {
+                                "rFlatBattleSpellCooldownModPerLevel":2
+                            },
+                            "effects":{
+                                
+                            }
+                          }  
+                        
+                    },
+                    {
+                        "effects": [
+                            {
+                                "level": 1,
+                                "tips": [
+                                    "Damage Reduction from Monsters +7%"
+                                ]
+                            },
+                            {
+                                "level": 2,
+                                "tips": [
+                                    "Damage Reduction from Monsters +14%"
+                                ]
+                            },
+                            {
+                                "level": 3,
+                                "tips": [
+                                    "Damage Reduction from Monsters +21%"
+                                ]
+                            }
+                        ],
+                        "emblem_id": 20004,
+                        "icon": "miya/emblem/46be26a7abf655c7f54f215c280d7c28.png",
+                        "layer": 2,
+                        "max_level": 3,
+                        "name": "Iron",
+                        "talent_id": 406,
+                        "custom": {
+                            "group": "",
+                            "stats": {
+                                "rPercentBlockMonsterDamageModPerLevel":0.07
+                            },
+                            "effects":{
+                                
+                            }
+                          }  
+                        
+                    },
+                    {
+                        "effects": [
+                            {
+                                "level": 1,
+                                "tips": [
+                                    "Kill jungle monsters hit by \"Retribution\" to earn an extra of 50 gold."
+                                ]
+                            }
+                        ],
+                        "emblem_id": 20004,
+                        "icon": "miya/emblem/e723deea9bb22fd0537c0270dd6894be.png",
+                        "layer": 3,
+                        "max_level": 1,
+                        "name": "Veteran Hunter",
+                        "talent_id": 407
+                    },
+                    {
+                        "effects": [
+                            {
+                                "level": 1,
+                                "tips": [
+                                    "The slowing effect of Retribution will be increased by 20%. If the enemies receiving Retribution get killed, the user will gain 50 Gold. The subsequent situation increases the Gold that the user obtains by 10 Gold (up to 1100 Gold)."
+                                ]
+                            }
+                        ],
+                        "emblem_id": 20004,
+                        "icon": "miya/emblem/11aaadd8bea36d5fa22134ce9ae2a3a5.png",
+                        "layer": 3,
+                        "max_level": 1,
+                        "name": "Wild Power",
+                        "talent_id": 408
+                    },
+                    {
+                        "effects": [
+                            {
+                                "level": 1,
+                                "tips": [
+                                    "Increases damage dealt to Lord, Turtle and Turrets by 15%, damage taken from Lord and Turtle is reduced by 20%."
+                                ]
+                            }
+                        ],
+                        "emblem_id": 20004,
+                        "icon": "miya/emblem/b8bd882350b2af0c7bde09ce1f6560e6.png",
+                        "layer": 3,
+                        "max_level": 1,
+                        "name": "Mage Killer",
+                        "talent_id": 409
+                    },
+                    {
+                        "effects": [
+                            {
+                                "level": 1,
+                                "tips": [
+                                    "Extra Physical ATK +4"
+                                ]
+                            },
+                            {
+                                "level": 2,
+                                "tips": [
+                                    "Extra Physical ATK +8"
+                                ]
+                            },
+                            {
+                                "level": 3,
+                                "tips": [
+                                    "Extra Physical ATK +12"
+                                ]
+                            }
+                        ],
+                        "emblem_id": 20005,
+                        "icon": "miya/emblem/4bcec9568eab0f6b74264ebb6dc1a094.png",
+                        "layer": 1,
+                        "max_level": 3,
+                        "name": "Bravery",
+                        "talent_id": 501,
+                        "custom": {
+                            "group": "",
+                            "stats": {
+                                "rFlatPhysicalDamageModPerLevel":4
+                            },
+                            "effects":{
+                                
+                            }
+                          }  
+                        
+                    },
+                    {
+                        "effects": [
+                            {
+                                "level": 1,
+                                "tips": [
+                                    "CD Reduction +1%"
+                                ]
+                            },
+                            {
+                                "level": 2,
+                                "tips": [
+                                    "CD Reduction +3%"
+                                ]
+                            },
+                            {
+                                "level": 3,
+                                "tips": [
+                                    "CD Reduction +5%"
+                                ]
+                            }
+                        ],
+                        "emblem_id": 20005,
+                        "icon": "miya/emblem/d6e6e21a5a67308b1d5c9029119488e7.png",
+                        "layer": 1,
+                        "max_level": 3,
+                        "name": "Mastery",
+                        "talent_id": 502,
+                        "custom": {
+                            "group": "",
+                            "stats": {
+                                "rPercentCooldownModPerLevel":0.015
+                            },
+                            "effects":{
+                                
+                            }
+                          }  
+                        
+                    },
+                    {
+                        "effects": [
+                            {
+                                "level": 1,
+                                "tips": [
+                                    "Movement SPD +2%"
+                                ]
+                            },
+                            {
+                                "level": 2,
+                                "tips": [
+                                    "Movement SPD +4%"
+                                ]
+                            },
+                            {
+                                "level": 3,
+                                "tips": [
+                                    "Movement SPD +6%"
+                                ]
+                            }
+                        ],
+                        "emblem_id": 20005,
+                        "icon": "miya/emblem/a5de5c33c00c8c15e9d820f14fcfd775.png",
+                        "layer": 1,
+                        "max_level": 3,
+                        "name": "Agility",
+                        "talent_id": 503,
+                        "custom": {
+                            "group": "",
+                            "stats": {
+                                "rPercentMovementSpeedModPerLevel":0.02
+                            },
+                            "effects":{
+                                
+                            }
+                          }  
+                        
+                    },
+                    {
+                        "effects": [
+                            {
+                                "level": 1,
+                                "tips": [
+                                    "Physical PEN +2"
+                                ]
+                            },
+                            {
+                                "level": 2,
+                                "tips": [
+                                    "Physical PEN +4"
+                                ]
+                            },
+                            {
+                                "level": 3,
+                                "tips": [
+                                    "Physical PEN +6"
+                                ]
+                            }
+                        ],
+                        "emblem_id": 20005,
+                        "icon": "miya/emblem/caf1d9d86b13127ba9810c5fb72c3bed.png",
+                        "layer": 2,
+                        "max_level": 3,
+                        "name": "Invasion",
+                        "talent_id": 504,
+                        "custom": {
+                            "group": "",
+                            "stats": {
+                                "rFlatArmorPenetrationModPerLevel":2
+                            },
+                            "effects":{
+                                
+                            }
+                          }  
+                        
+                    },
+                    {
+                        "effects": [
+                            {
+                                "level": 1,
+                                "tips": [
+                                    "Crit Chance +1%"
+                                ]
+                            },
+                            {
+                                "level": 2,
+                                "tips": [
+                                    "Crit Chance +2%"
+                                ]
+                            },
+                            {
+                                "level": 3,
+                                "tips": [
+                                    "Crit Chance +3%"
+                                ]
+                            }
+                        ],
+                        "emblem_id": 20005,
+                        "icon": "miya/emblem/429bf3e0b4fa23d9735467e1907d7732.png",
+                        "layer": 2,
+                        "max_level": 3,
+                        "name": "Fatal",
+                        "talent_id": 505,
+                        "custom": {
+                            "group": "",
+                            "stats": {
+                                "rPercentCritChanceModPerLevel":0.02
+                            },
+                            "effects":{
+                                
+                            }
+                          }  
+                        
+                    },
+                    {
+                        "effects": [
+                            {
+                                "level": 1,
+                                "tips": [
+                                    "Spell Vamp +1%"
+                                ]
+                            },
+                            {
+                                "level": 2,
+                                "tips": [
+                                    "Spell Vamp +3%"
+                                ]
+                            },
+                            {
+                                "level": 3,
+                                "tips": [
+                                    "Spell Vamp +5%"
+                                ]
+                            }
+                        ],
+                        "emblem_id": 20005,
+                        "icon": "miya/emblem/5ebbc2752c17959725d37058a37be458.png",
+                        "layer": 2,
+                        "max_level": 3,
+                        "name": "Bloodthirst",
+                        "talent_id": 506,
+                        "custom": {
+                            "group": "",
+                            "stats": {
+                                "rPercentSpellVampModPerLevel":1.5
+                            },
+                            "effects":{
+                                
+                            }
+                          }  
+                        
+                    },
+                    {
+                        "effects": [
+                            {
+                                "level": 1,
+                                "tips": [
+                                    "Kill an enemy hero to earn an extra 80 gold，up to 1200."
+                                ]
+                            }
+                        ],
+                        "emblem_id": 20005,
+                        "icon": "miya/emblem/5de1707236d8448e163450f9737005a1.png",
+                        "layer": 3,
+                        "max_level": 1,
+                        "name": "Bounty Hunter",
+                        "talent_id": 507
+                    },
+                    {
+                        "effects": [
+                            {
+                                "level": 1,
+                                "tips": [
+                                    "Increases damage by 6% on the enemy hero when he is the only nearby hero"
+                                ]
+                            }
+                        ],
+                        "emblem_id": 20005,
+                        "icon": "miya/emblem/2668b00368aa99901d48e95eb3b33662.png",
+                        "layer": 3,
+                        "max_level": 1,
+                        "name": "High and Dry",
+                        "talent_id": 508
+                    },
+                    {
+                        "effects": [
+                            {
+                                "level": 1,
+                                "tips": [
+                                    "Kill an enemy hero to restore 15% HP and increase movement speed by 20%. Lasts 5 seconds."
+                                ]
+                            }
+                        ],
+                        "emblem_id": 20005,
+                        "icon": "miya/emblem/0dfa0f1475e3a438595f3a0536b2a607.png",
+                        "layer": 3,
+                        "max_level": 1,
+                        "name": "Killing Spree",
+                        "talent_id": 509
+                    },
+                    {
+                        "effects": [
+                            {
+                                "level": 1,
+                                "tips": [
+                                    "Magic Power +4"
+                                ]
+                            },
+                            {
+                                "level": 2,
+                                "tips": [
+                                    "Magic Power +8"
+                                ]
+                            },
+                            {
+                                "level": 3,
+                                "tips": [
+                                    "Magic Power +12"
+                                ]
+                            }
+                        ],
+                        "emblem_id": 20006,
+                        "icon": "miya/emblem/e4231e8ca5bb0ce15e072090d72f9878.png",
+                        "layer": 1,
+                        "max_level": 3,
+                        "name": "Flow",
+                        "talent_id": 601
+                    },
+                    {
+                        "effects": [
+                            {
+                                "level": 1,
+                                "tips": [
+                                    "CD Reduction +1%"
+                                ]
+                            },
+                            {
+                                "level": 2,
+                                "tips": [
+                                    "CD Reduction +3%"
+                                ]
+                            },
+                            {
+                                "level": 3,
+                                "tips": [
+                                    "CD Reduction +5%"
+                                ]
+                            }
+                        ],
+                        "emblem_id": 20006,
+                        "icon": "miya/emblem/d6e6e21a5a67308b1d5c9029119488e7.png",
+                        "layer": 1,
+                        "max_level": 3,
+                        "name": "Mastery",
+                        "talent_id": 602,
+                        "custom": {
+                            "group": "",
+                            "stats": {
+                                "rPercentCooldownModPerLevel":0.015
+                            },
+                            "effects":{
+                                
+                            }
+                          }  
+                        
+                    },
+                    {
+                        "effects": [
+                            {
+                                "level": 1,
+                                "tips": [
+                                    "Movement SPD +2%"
+                                ]
+                            },
+                            {
+                                "level": 2,
+                                "tips": [
+                                    "Movement SPD +4%"
+                                ]
+                            },
+                            {
+                                "level": 3,
+                                "tips": [
+                                    "Movement SPD +6%"
+                                ]
+                            }
+                        ],
+                        "emblem_id": 20006,
+                        "icon": "miya/emblem/a5de5c33c00c8c15e9d820f14fcfd775.png",
+                        "layer": 1,
+                        "max_level": 3,
+                        "name": "Agility",
+                        "talent_id": 603,
+                        "custom": {
+                            "group": "",
+                            "stats": {
+                                "rPercentMovementSpeedModPerLevel":0.02
+                            },
+                            "effects":{
+                                
+                            }
+                          }  
+                        
+                    },
+                    {
+                        "effects": [
+                            {
+                                "level": 1,
+                                "tips": [
+                                    "Magic PEN +2"
+                                ]
+                            },
+                            {
+                                "level": 2,
+                                "tips": [
+                                    "Magic PEN +4"
+                                ]
+                            },
+                            {
+                                "level": 3,
+                                "tips": [
+                                    "Magic PEN +6"
+                                ]
+                            }
+                        ],
+                        "emblem_id": 20006,
+                        "icon": "miya/emblem/977309316390ccddec634efedde2ee82.png",
+                        "layer": 2,
+                        "max_level": 3,
+                        "name": "Observation",
+                        "talent_id": 604,
+                        "custom": {
+                            "group": "",
+                            "stats": {
+                                "rFlatMagicArmorPenetrationModPerLevel":2
+                            },
+                            "effects":{
+                                
+                            }
+                          }  
+                        
+                    },
+                    {
+                        "effects": [
+                            {
+                                "level": 1,
+                                "tips": [
+                                    "Magic Power +1%"
+                                ]
+                            },
+                            {
+                                "level": 2,
+                                "tips": [
+                                    "Magic Power +3%"
+                                ]
+                            },
+                            {
+                                "level": 3,
+                                "tips": [
+                                    "Magic Power +5%"
+                                ]
+                            }
+                        ],
+                        "emblem_id": 20006,
+                        "icon": "miya/emblem/3e4be8704d19e4b5d2a3a7addc48e38b.png",
+                        "layer": 2,
+                        "max_level": 3,
+                        "name": "Catastrophe",
+                        "talent_id": 605,
+                        "custom": {
+                            "group": "",
+                            "stats": {
+                                "rPercentMagicDamageModPerLevel":0.015
+                            },
+                            "effects":{
+                                
+                            }
+                          }  
+                        
+                    },
+                    {
+                        "effects": [
+                            {
+                                "level": 1,
+                                "tips": [
+                                    "Magic Lifesteal +1%"
+                                ]
+                            },
+                            {
+                                "level": 2,
+                                "tips": [
+                                    "Magic Lifesteal +3%"
+                                ]
+                            },
+                            {
+                                "level": 3,
+                                "tips": [
+                                    "Magic Lifesteal +5%"
+                                ]
+                            }
+                        ],
+                        "emblem_id": 20006,
+                        "icon": "miya/emblem/55e1e7222a2c61569e6d5dbb48a1811b.png",
+                        "layer": 2,
+                        "max_level": 3,
+                        "name": "Contract",
+                        "talent_id": 606,
+                        "custom": {
+                            "group": "",
+                            "stats": {
+                                "rFlatMagicLifeStealPerLevel":0.015
+                            },
+                            "effects":{
+                                
+                            }
+                          }  
+                        
+                    },
+                    {
+                        "effects": [
+                            {
+                                "level": 1,
+                                "tips": [
+                                    "Purchase the equipment item for 90% gold."
+                                ]
+                            }
+                        ],
+                        "emblem_id": 20006,
+                        "icon": "miya/emblem/b3987d1a66561a72f6f2aa7e9916e992.png",
+                        "layer": 3,
+                        "max_level": 1,
+                        "name": "Mystery Shop",
+                        "talent_id": 607
+                    },
+                    {
+                        "effects": [
+                            {
+                                "level": 1,
+                                "tips": [
+                                    "When dealing damage that is more than 7% of target's max HP for 3 times in 5 seconds, burns the target 3 times, each burn dealing 82~250 Magic Damage. This effect has a 12 second cooldown."
+                                ]
+                            }
+                        ],
+                        "emblem_id": 20006,
+                        "icon": "miya/emblem/080006bd39e4b04d729aca52b84523d2.png",
+                        "layer": 3,
+                        "max_level": 1,
+                        "name": "Magic Worship",
+                        "talent_id": 608
+                    },
+                    {
+                        "effects": [
+                            {
+                                "level": 1,
+                                "tips": [
+                                    "Dealing damage with skills adds extra damage that equals to 4% of the target's current HP as Magic Damage and restores 3% of your Mana. This effect has a 5 second cooldown."
+                                ]
+                            }
+                        ],
+                        "emblem_id": 20006,
+                        "icon": "miya/emblem/bf637a2811227f2cabfaed97cc0b8e38.png",
+                        "layer": 3,
+                        "max_level": 1,
+                        "name": "Impure Rage",
+                        "talent_id": 609
+                    },
+                    {
+                        "effects": [
+                            {
+                                "level": 1,
+                                "tips": [
+                                    "Extra Physical ATK +4"
+                                ]
+                            },
+                            {
+                                "level": 2,
+                                "tips": [
+                                    "Extra Physical ATK +8"
+                                ]
+                            },
+                            {
+                                "level": 3,
+                                "tips": [
+                                    "Extra Physical ATK +12"
+                                ]
+                            }
+                        ],
+                        "emblem_id": 20007,
+                        "icon": "miya/emblem/4bcec9568eab0f6b74264ebb6dc1a094.png",
+                        "layer": 1,
+                        "max_level": 3,
+                        "name": "Bravery",
+                        "talent_id": 701,
+                        "custom": {
+                            "group": "",
+                            "stats": {
+                                "rFlatPhysicalDamageModPerLevel":4
+                            },
+                            "effects":{
+                                
+                            }
+                          }  
+                        
+                    },
+                    {
+                        "effects": [
+                            {
+                                "level": 1,
+                                "tips": [
+                                    "Physical Defense +4"
+                                ]
+                            },
+                            {
+                                "level": 2,
+                                "tips": [
+                                    "Physical Defense +8"
+                                ]
+                            },
+                            {
+                                "level": 3,
+                                "tips": [
+                                    "Physical Defense +12"
+                                ]
+                            }
+                        ],
+                        "emblem_id": 20007,
+                        "icon": "miya/emblem/c09b1c72ef2caa90a4bdbd22bda51796.png",
+                        "layer": 1,
+                        "max_level": 3,
+                        "name": "Firmness",
+                        "talent_id": 702,
+                        "custom": {
+                            "group": "",
+                            "stats": {
+                                "rFlatArmorModPerLevel":4
+                            },
+                            "effects":{
+                                
+                            }
+                          }  
+                        
+                    },
+                    {
+                        "effects": [
+                            {
+                                "level": 1,
+                                "tips": [
+                                    "Magic Defense +4"
+                                ]
+                            },
+                            {
+                                "level": 2,
+                                "tips": [
+                                    "Magic Defense +8"
+                                ]
+                            },
+                            {
+                                "level": 3,
+                                "tips": [
+                                    "Magic Defense +12"
+                                ]
+                            }
+                        ],
+                        "emblem_id": 20007,
+                        "icon": "miya/emblem/2c5d6bb5c31e089cd3119c8e9789c6c2.png",
+                        "layer": 1,
+                        "max_level": 3,
+                        "name": "Shield",
+                        "talent_id": 703,
+                        "custom": {
+                            "group": "",
+                            "stats": {
+                                "rFlatMagicArmorModPerLevel":4
+                            },
+                            "effects":{
+                                
+                            }
+                          }  
+                        
+                    },
+                    {
+                        "effects": [
+                            {
+                                "level": 1,
+                                "tips": [
+                                    "Physical PEN +2"
+                                ]
+                            },
+                            {
+                                "level": 2,
+                                "tips": [
+                                    "Physical PEN +4"
+                                ]
+                            },
+                            {
+                                "level": 3,
+                                "tips": [
+                                    "Physical PEN +6"
+                                ]
+                            }
+                        ],
+                        "emblem_id": 20007,
+                        "icon": "miya/emblem/caf1d9d86b13127ba9810c5fb72c3bed.png",
+                        "layer": 2,
+                        "max_level": 3,
+                        "name": "Invasion",
+                        "talent_id": 704,
+                        "custom": {
+                            "group": "",
+                            "stats": {
+                                "rFlatArmorPenetrationModPerLevel":2
+                            },
+                            "effects":{
+                                
+                            }
+                          }  
+                        
+                    },
+                    {
+                        "effects": [
+                            {
+                                "level": 1,
+                                "tips": [
+                                    "HP +100"
+                                ]
+                            },
+                            {
+                                "level": 2,
+                                "tips": [
+                                    "HP +200"
+                                ]
+                            },
+                            {
+                                "level": 3,
+                                "tips": [
+                                    "HP +300"
+                                ]
+                            }
+                        ],
+                        "emblem_id": 20007,
+                        "icon": "miya/emblem/c52249ab077466f73a1db8dc46a874f4.png",
+                        "layer": 2,
+                        "max_level": 3,
+                        "name": "Persistence",
+                        "talent_id": 705,
+                        "custom": {
+                            "group": "",
+                            "stats": {
+                                "rFlatHPModPerLevel":100
+                            },
+                            "effects":{
+                                
+                            }
+                          }  
+                        
+                    },
+                    {
+                        "effects": [
+                            {
+                                "level": 1,
+                                "tips": [
+                                    "Attack Speed +1%"
+                                ]
+                            },
+                            {
+                                "level": 2,
+                                "tips": [
+                                    "Attack Speed +3%"
+                                ]
+                            },
+                            {
+                                "level": 3,
+                                "tips": [
+                                    "Attack Speed +5%"
+                                ]
+                            }
+                        ],
+                        "emblem_id": 20007,
+                        "icon": "miya/emblem/a609035ade4d9ac35b4bd8f03d356d67.png",
+                        "layer": 2,
+                        "max_level": 3,
+                        "name": "Swift",
+                        "talent_id": 706,
+                        "custom": {
+                            "group": "",
+                            "stats": {
+                                "rPercentAttackSpeedModPerLevel":0.015
+                            },
+                            "effects":{
+                                
+                            }
+                          }  
+                        
+                    },
+                    {
+                        "effects": [
+                            {
+                                "level": 1,
+                                "tips": [
+                                    "Every 1% of HP lost is converted to an additional 0.2% increase in damage (Up to 12% damage increase)."
+                                ]
+                            }
+                        ],
+                        "emblem_id": 20007,
+                        "icon": "miya/emblem/78d7b4dfe2f9d5a57cc97634eb0138c8.png",
+                        "layer": 3,
+                        "max_level": 1,
+                        "name": "Unbending Will",
+                        "talent_id": 707
+                    },
+                    {
+                        "effects": [
+                            {
+                                "level": 1,
+                                "tips": [
+                                    "Gains 8% Spell Vamp. Killing every enemy hero grants an extra 1% Spell Vamp (Up to 12%)."
+                                ]
+                            }
+                        ],
+                        "emblem_id": 20007,
+                        "icon": "miya/emblem/f7a1c830a96090e0f9883ad633775a17.png",
+                        "layer": 3,
+                        "max_level": 1,
+                        "name": "Festival of Blood",
+                        "talent_id": 708
+                    },
+                    {
+                        "effects": [
+                            {
+                                "level": 1,
+                                "tips": [
+                                    "After slowing Heroes or Creeps (by more than 20% for a single time), increases Physical Attack by 30%. Lasts 3s. The effect will be removed when dealing next Damage. Cooldown is 10s."
+                                ]
+                            }
+                        ],
+                        "emblem_id": 20007,
+                        "icon": "miya/emblem/f374e2c72d7c4ca07c3f10028804b370.png",
+                        "layer": 3,
+                        "max_level": 1,
+                        "name": "Disabling Strike",
+                        "talent_id": 709
+                    },
+                    {
+                        "effects": [
+                            {
+                                "level": 1,
+                                "tips": [
+                                    "CD Reduction +1%"
+                                ]
+                            },
+                            {
+                                "level": 2,
+                                "tips": [
+                                    "CD Reduction +3%"
+                                ]
+                            },
+                            {
+                                "level": 3,
+                                "tips": [
+                                    "CD Reduction +5%"
+                                ]
+                            }
+                        ],
+                        "emblem_id": 20008,
+                        "icon": "miya/emblem/d6e6e21a5a67308b1d5c9029119488e7.png",
+                        "layer": 1,
+                        "max_level": 3,
+                        "name": "Mastery",
+                        "talent_id": 801,
+                        "custom": {
+                            "group": "",
+                            "stats": {
+                                "rPercentCooldownModPerLevel":0.015
+                            },
+                            "effects":{
+                                
+                            }
+                          }  
+                        
+                    },
+                    {
+                        "effects": [
+                            {
+                                "level": 1,
+                                "tips": [
+                                    "HP +65"
+                                ]
+                            },
+                            {
+                                "level": 2,
+                                "tips": [
+                                    "HP +130"
+                                ]
+                            },
+                            {
+                                "level": 3,
+                                "tips": [
+                                    "HP +200"
+                                ]
+                            }
+                        ],
+                        "emblem_id": 20008,
+                        "icon": "miya/emblem/c52249ab077466f73a1db8dc46a874f4.png",
+                        "layer": 1,
+                        "max_level": 3,
+                        "name": "Vitality",
+                        "talent_id": 802,
+                        "custom": {
+                            "group": "",
+                            "stats": {
+                                "rFlatHPModPerLevel":65
+                            },
+                            "effects":{
+                                
+                            }
+                          }  
+                        
+                    },
+                    {
+                        "effects": [
+                            {
+                                "level": 1,
+                                "tips": [
+                                    "Movement SPD +2%"
+                                ]
+                            },
+                            {
+                                "level": 2,
+                                "tips": [
+                                    "Movement SPD +4%"
+                                ]
+                            },
+                            {
+                                "level": 3,
+                                "tips": [
+                                    "Movement SPD +6%"
+                                ]
+                            }
+                        ],
+                        "emblem_id": 20008,
+                        "icon": "miya/emblem/a5de5c33c00c8c15e9d820f14fcfd775.png",
+                        "layer": 1,
+                        "max_level": 3,
+                        "name": "Agility",
+                        "talent_id": 803,
+                        "custom": {
+                            "group": "",
+                            "stats": {
+                                "rPercentMovementSpeedModPerLevel":0.02
+                            },
+                            "effects":{
+                                
+                            }
+                          }  
+                        
+                    },
+                    {
+                        "effects": [
+                            {
+                                "level": 1,
+                                "tips": [
+                                    "Healing Effect +3%"
+                                ]
+                            },
+                            {
+                                "level": 2,
+                                "tips": [
+                                    "Healing Effect +6%"
+                                ]
+                            },
+                            {
+                                "level": 3,
+                                "tips": [
+                                    "Healing Effect +10%"
+                                ]
+                            }
+                        ],
+                        "emblem_id": 20008,
+                        "icon": "miya/emblem/5b7708ef613aad7da593b0efd5001d05.png",
+                        "layer": 2,
+                        "max_level": 3,
+                        "name": "Gift",
+                        "talent_id": 804,
+                        "custom": {
+                            "group": "",
+                            "stats": {
+                                "rPercentHealingModPerLevel":0.03
+                            },
+                            "effects":{
+                                
+                            }
+                          }  
+                        
+                    },
+                    {
+                        "effects": [
+                            {
+                                "level": 1,
+                                "tips": [
+                                    "Hybrid PEN +2"
+                                ]
+                            },
+                            {
+                                "level": 2,
+                                "tips": [
+                                    "Hybrid PEN +4"
+                                ]
+                            },
+                            {
+                                "level": 3,
+                                "tips": [
+                                    "Hybrid PEN +6"
+                                ]
+                            }
+                        ],
+                        "emblem_id": 20008,
+                        "icon": "miya/emblem/876692c19a0774f935b7716c652d9085.png",
+                        "layer": 2,
+                        "max_level": 3,
+                        "name": "Rupture",
+                        "talent_id": 805,
+                        "custom": {
+                            "group": "",
+                            "stats": {
+                                "rFlatMagicArmorPenetrationModPerLevel":2,
+                                "rPercentArmorPenetrationModPerLevel":2
+                            },
+                            "effects":{
+                                
+                            }
+                          }  
+                        
+                    },
+                    {
+                        "effects": [
+                            {
+                                "level": 1,
+                                "tips": [
+                                    "Hybrid Regen +5"
+                                ]
+                            },
+                            {
+                                "level": 2,
+                                "tips": [
+                                    "Hybrid Regen +10"
+                                ]
+                            },
+                            {
+                                "level": 3,
+                                "tips": [
+                                    "Hybrid Regen +16"
+                                ]
+                            }
+                        ],
+                        "emblem_id": 20008,
+                        "icon": "miya/emblem/7df13f17f05b78803e984dc9ec92072f.png",
+                        "layer": 2,
+                        "max_level": 3,
+                        "name": "Recovery",
+                        "talent_id": 806,
+                        "custom": {
+                            "group": "",
+                            "stats": {
+                                "rFlatHPRegenModPerLevel":5,
+                                "rFlatMPRegenModPerLevel":5
+                            },
+                            "effects":{
+                                
+                            }
+                          }  
+                        
+                    },
+                    {
+                        "effects": [
+                            {
+                                "level": 1,
+                                "tips": [
+                                    "After dealing damage to an enemy hero, the damage dealt by allies on the enemy hero will be increased by 6% for 3 seconds. This effect has a 6 second cooldown."
+                                ]
+                            }
+                        ],
+                        "emblem_id": 20008,
+                        "icon": "miya/emblem/e5ef4406bcc284b2912ed0094da2bd01.png",
+                        "layer": 3,
+                        "max_level": 1,
+                        "name": "Focusing Mark",
+                        "talent_id": 807
+                    },
+                    {
+                        "effects": [
+                            {
+                                "level": 1,
+                                "tips": [
+                                    "Gains an extra 10 gold after dealing damage to enemy heroes (Up to 1200 gold). Cooldown is 4s."
+                                ]
+                            }
+                        ],
+                        "emblem_id": 20008,
+                        "icon": "miya/emblem/646dc0b699904b46eac5d532625a091e.png",
+                        "layer": 3,
+                        "max_level": 1,
+                        "name": "Avarice",
+                        "talent_id": 808
+                    },
+                    {
+                        "effects": [
+                            {
+                                "level": 1,
+                                "tips": [
+                                    "Resurrecting time is reduced by 15%, battle spell cooldown is reduced by 15%."
+                                ]
+                            }
+                        ],
+                        "emblem_id": 20008,
+                        "icon": "miya/emblem/58d8fb3bbf4894daa9a08b2329068374.png",
+                        "layer": 3,
+                        "max_level": 1,
+                        "name": "Pull Yourself Together",
+                        "talent_id": 809
+                    },
+                    {
+                        "effects": [
+                            {
+                                "level": 1,
+                                "tips": [
+                                    "Extra Physical ATK +4"
+                                ]
+                            },
+                            {
+                                "level": 2,
+                                "tips": [
+                                    "Extra Physical ATK +8"
+                                ]
+                            },
+                            {
+                                "level": 3,
+                                "tips": [
+                                    "Extra Physical ATK +12"
+                                ]
+                            }
+                        ],
+                        "emblem_id": 20012,
+                        "icon": "miya/emblem/4bcec9568eab0f6b74264ebb6dc1a094.png",
+                        "layer": 1,
+                        "max_level": 3,
+                        "name": "Bravery",
+                        "talent_id": 901,
+                        "custom": {
+                            "group": "",
+                            "stats": {
+                                "rFlatPhysicalDamageModPerLevel":4
+                            },
+                            "effects":{
+                                
+                            }
+                          }  
+                        
+                    },
+                    {
+                        "effects": [
+                            {
+                                "level": 1,
+                                "tips": [
+                                    "Physical Lifesteal +1%"
+                                ]
+                            },
+                            {
+                                "level": 2,
+                                "tips": [
+                                    "Physical Lifesteal +3%"
+                                ]
+                            },
+                            {
+                                "level": 3,
+                                "tips": [
+                                    "Physical Lifesteal +5%"
+                                ]
+                            }
+                        ],
+                        "emblem_id": 20012,
+                        "icon": "miya/emblem/bb21c0fe238b76c0f12bf258c64a0546.png",
+                        "layer": 1,
+                        "max_level": 3,
+                        "name": "Greed",
+                        "talent_id": 902,
+                        "custom": {
+                            "group": "",
+                            "stats": {
+                                "rPercentLifeStealModPerLevel":0.015
+                            },
+                            "effects":{
+                                
+                            }
+                          }  
+                        
+                    },
+                    {
+                        "effects": [
+                            {
+                                "level": 1,
+                                "tips": [
+                                    "Crit Chance +1%"
+                                ]
+                            },
+                            {
+                                "level": 2,
+                                "tips": [
+                                    "Crit Chance +2%"
+                                ]
+                            },
+                            {
+                                "level": 3,
+                                "tips": [
+                                    "Crit Chance +3%"
+                                ]
+                            }
+                        ],
+                        "emblem_id": 20012,
+                        "icon": "miya/emblem/429bf3e0b4fa23d9735467e1907d7732.png",
+                        "layer": 1,
+                        "max_level": 3,
+                        "name": "Fatal",
+                        "talent_id": 903,
+                        "custom": {
+                            "group": "",
+                            "stats": {
+                                "rPercentCritChanceModPerLevel":0.01
+                            },
+                            "effects":{
+                                
+                            }
+                          }  
+                        
+                    },
+                    {
+                        "effects": [
+                            {
+                                "level": 1,
+                                "tips": [
+                                    "Crit Damage +4%"
+                                ]
+                            },
+                            {
+                                "level": 2,
+                                "tips": [
+                                    "Crit Damage +9%"
+                                ]
+                            },
+                            {
+                                "level": 3,
+                                "tips": [
+                                    "Crit Damage +13%"
+                                ]
+                            }
+                        ],
+                        "emblem_id": 20012,
+                        "icon": "miya/emblem/adc3ab55df8c4c6450ce58d57b8f3787.png",
+                        "layer": 2,
+                        "max_level": 3,
+                        "name": "Doom",
+                        "talent_id": 904,
+                        "custom": {
+                            "group": "",
+                            "stats": {
+                                "rFlatCritDamageModPerLevel":0.04
+                            },
+                            "effects":{
+                                
+                            }
+                          }  
+                        
+                    },
+                    {
+                        "effects": [
+                            {
+                                "level": 1,
+                                "tips": [
+                                    "CD Reduction +1%"
+                                ]
+                            },
+                            {
+                                "level": 2,
+                                "tips": [
+                                    "CD Reduction +3%"
+                                ]
+                            },
+                            {
+                                "level": 3,
+                                "tips": [
+                                    "CD Reduction +5%"
+                                ]
+                            }
+                        ],
+                        "emblem_id": 20012,
+                        "icon": "miya/emblem/d6e6e21a5a67308b1d5c9029119488e7.png",
+                        "layer": 2,
+                        "max_level": 3,
+                        "name": "Mastery",
+                        "talent_id": 905,
+                        "custom": {
+                            "group": "",
+                            "stats": {
+                                "rPercentCooldownModPerLevel":0.015
+                            },
+                            "effects":{
+                                
+                            }
+                          }  
+                        
+                    },
+                    {
+                        "effects": [
+                            {
+                                "level": 1,
+                                "tips": [
+                                    "Attack Speed +1%"
+                                ]
+                            },
+                            {
+                                "level": 2,
+                                "tips": [
+                                    "Attack Speed +3%"
+                                ]
+                            },
+                            {
+                                "level": 3,
+                                "tips": [
+                                    "Attack Speed +5%"
+                                ]
+                            }
+                        ],
+                        "emblem_id": 20012,
+                        "icon": "miya/emblem/a609035ade4d9ac35b4bd8f03d356d67.png",
+                        "layer": 2,
+                        "max_level": 3,
+                        "name": "Swift",
+                        "talent_id": 906,
+                        "custom": {
+                            "group": "",
+                            "stats": {
+                                "rPercentAttackSpeedModPerLevel":0.015
+                            },
+                            "effects":{
+                                
+                            }
+                          }  
+                        
+                    },
+                    {
+                        "effects": [
+                            {
+                                "level": 1,
+                                "tips": [
+                                    "Physical damage gained from equipment increased by 12%"
+                                ]
+                            }
+                        ],
+                        "emblem_id": 20012,
+                        "icon": "miya/emblem/74e8e462c646ad314adff713047de387.png",
+                        "layer": 3,
+                        "max_level": 1,
+                        "name": "Weapon Master",
+                        "talent_id": 907
+                    },
+                    {
+                        "effects": [
+                            {
+                                "level": 1,
+                                "tips": [
+                                    "Within 1.5s of dealing damage with Basic Attacks, movement speed is increased by 40% and regenerates HP equal to 30% of hero’s Physical Attack. Cooldown is 10s."
+                                ]
+                            }
+                        ],
+                        "emblem_id": 20012,
+                        "icon": "miya/emblem/e3a8d2a9fd85b68c09fb6873bce9d935.png",
+                        "layer": 3,
+                        "max_level": 1,
+                        "name": "Electro Flash",
+                        "talent_id": 908
+                    },
+                    {
+                        "effects": [
+                            {
+                                "level": 1,
+                                "tips": [
+                                    "Basic attack has a 20% chance of reducing target's movement speed by 90% and attack speed by 50%. This effect has a 2 second cooldown(Not effective for melee heroes)."
+                                ]
+                            }
+                        ],
+                        "emblem_id": 20012,
+                        "icon": "miya/emblem/ace09466ea37968a4ce92dd1948c67b4.png",
+                        "layer": 3,
+                        "max_level": 1,
+                        "name": "Weakness Finder",
+                        "talent_id": 909
+                    }
+                ],
+                "talent_layer": {
+                    "1": "miya/emblem/0b35b367b7da6dca88efc7f2f1dbd0ee.png",
+                    "2": "miya/emblem/c2b84900d8582c361617aabd4f7fbb22.png",
+                    "3": "miya/emblem/a87ddf3b29d30aae521a3d8f3c24d0e8.png"
+                }
+            }
+        }
+    ]
+}
